@@ -1,0 +1,76 @@
+===============================
+Top Relations for Drug entities:
+query: "MATCH (n:Entity)-[r]->(p:Entity) WHERE  ANY(item IN n.sem_types WHERE item ='phsu') RETURN type(r), count(*) ORDER BY count(*) DESC"
+===============================
+type(r)			count(*)
+"INTERACTS_WITH"	1520836
+"MENTIONED_IN"		337158
+"IS_A"			22683
+"TREATS"		14366
+"AFFECTS"		7398
+"COEXISTS_WITH"		6892
+"DISRUPTS"		6500
+"INHIBITS"		6305
+"STIMULATES"		5308
+"AUGMENTS"		4865
+"CAUSES"		4730
+"ISA"			3809
+"TREATS__INFER__"	3621
+"compared_with"		3148
+"PART_OF"		2827
+"ASSOCIATED_WITH"	1945
+"ADMINISTERED_TO"	1806
+"PREVENTS"		1361
+"PREDISPOSES"		1006
+"TREATS__SPEC__"	954
+
+===============================
+Top Semantic Types related with DRUG-TREATS->
+query: "MATCH (n:Entity)-[r:TREATS]->(p:Entity) WHERE  ANY(item IN n.sem_types WHERE item ='phsu') RETURN p.sem_types, count(*) ORDER BY count(*) DESC"
+===============================
+p.sem_types				count(*)
+["neop"] (Neoplastic Process)		5041
+["fndg"] (Finding)			2012
+["podg"] (Patient or Disabled Group)	1623
+["dsyn"] (Disease or Syndrome)		1362
+["mamm"] (Mammal)			1183
+["popg"] (Population Group)		765
+["sosy"] (Sign or Symptom)		541
+["patf"] (Pathologic Function)		435
+["emod"] (Experimental Model of Disease)250
+["comd"] (Cell or Molecular Dysfunction)193
+
+
+===============================
+Top Relations between DRUG-> Amino Acid, Peptide, or Protein
+query: "MATCH (n:Entity)-[r]->(p:Entity) WHERE ((ANY(item IN p.sem_types WHERE item ='aapp')) AND (ANY(item IN n.sem_types WHERE item ='phsu'))) RETURN type(r), count(*) ORDER BY count(*) DESC"
+===============================
+type(r)			count(*)
+"INTERACTS_WITH"	90358
+"INHIBITS"		2640
+"IS_A"			2451
+"STIMULATES"		2314
+"COEXISTS_WITH"		1103
+"ISA"			438
+"compared_with"		384
+"PART_OF"		381
+"PRODUCES"		115
+"INTERACTS_WITH__SPEC__"96
+
+
+
+===============================
+Top Relations between DRUG-> Disease or Syndrome
+query: "MATCH (n:Entity)-[r]->(p:Entity) WHERE ((ANY(item IN p.sem_types WHERE item ='dsyn')) AND (ANY(item IN n.sem_types WHERE item ='phsu'))) RETURN type(r), count(*) ORDER BY count(*) DESC"
+===============================
+type(r)			count(*)
+"TREATS"		1378
+"CAUSES"		413
+"TREATS__INFER__"	407
+"ASSOCIATED_WITH"	299
+"AFFECTS"		216
+"PREVENTS"		137
+"PREDISPOSES"		120
+"AUGMENTS"		119
+"TREATS__SPEC__"	88
+"DISRUPTS"		70

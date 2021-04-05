@@ -1,0 +1,23 @@
+# The path of the inputfile in the local system
+
+#inputFilePath: 'C:\Users\tasosnent\Desktop\Tasks\0 All Projects\Harvesters\HarvestStructured\mesh_2018.obo'
+#inputFilePath: 'D:\42 IASIS tmp files\Structured Resources\DrugBank\DB00316.xml'
+inputFilePath: '/home/fot/workspace/DrugBankSample.xml'
+
+# One of drugbank, doid, go, mesh
+
+#inputResourceID: mesh 
+inputResourceID: drugbank 
+#inputResourceID: doid 
+
+# Details about the MongoDB database and output collection
+
+#mongodb: {host: 143.233.226.92, port: 27017, dbname: iasis, collection: mesh_2018}
+mongodb: {host: 127.0.0.1, port: 27017, dbname: iasis, collection: drugbank_test}
+#mongodb: {host: 143.233.226.92, port: 27017, dbname: iasis, collection: doid}
+# Details about the RabbitMQ messaging
+
+rabbitmq: {host: localhost, port: 5672, username: guest, password: guest, exchange: iasis.direct,
+  routingkeyListen: iasis.structured_harvester.routingkey, queueListen: iasis.structured_harvester.queue,
+  routingkeySent: iasis.orchestrator.routingkey, queueSent: iasis.orchestrator.queue,
+  modulename: structured_harvester}
