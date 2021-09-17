@@ -1,0 +1,1 @@
+Caution: To avoid huge neo4j folder filled up with neostore.transaction.db.x files of transaction logs, enable the option "dbms.tx_log.rotation.retention_policy=1M size" in neo4j configuration file.

@@ -1,0 +1,26 @@
+# Input collection to read the articles to be exported in output neo4j
+#mongodb: {host: localhost, port: 27017, dbname: iasis, collection: AD_PubMed_20171011_b}
+#mongodb: {host: 143.233.226.92, port: 27017, dbname: iasis, collection: LC_confidence}
+# Input neo4j to read article topics, concept occurrences and concept-concept relations
+#neo4jInputGrpah: {host: localhost, port: 7687, user: neo4j, password: testpass1}
+# Output neo4j to write "analyzed" i.e. filtered article topics, concept occurrences and concept-concept relations
+#neo4jOutputGrpah: {host: localhost, port: 7687, user: neo4j, password: testpass1}
+#neo4jOutputGrpah: {host: localhost, port: 8003, user: neo4j, password: docker}
+
+# Input collection to read the articles to be exported in output neo4j
+mongodb: {host: 143.233.226.92, port: 27017, dbname: iasis_wp5, collection: LC_pubmed}
+# Input neo4j to read article topics, concept occurrences and concept-concept relations
+neo4jInputGrpah: {host: localhost, port: 7687, user: neo4j, password: testpass1}
+# Output neo4j to write "analyzed" i.e. filtered article topics, concept occurrences and concept-concept relations
+#neo4jOutputGrpah: {host: localhost, port: 8001, user: neo4j, password: docker}
+neo4jOutputGrpah: {host: localhost, port: 8001, user: neo4j, password: docker}
+
+# Details about the RabbitMQ messaging
+rabbitmq: {host: localhost, port: 5672, username: guest, password: guest, exchange: iasis.direct,
+  routingkeyListen: iasis.structured_analysis.routingkey, queueListen: iasis.structured_analysis.queue,
+  routingkeySent: iasis.orchestrator.routingkey, queueSent: iasis.orchestrator.queue,
+  modulename: structured_analysis}
+# Scimago Scientific Ranking of Journals file
+scimagojr: C:\Users\tasosnent\Desktop\Tasks\0 All Projects\Analyzer\scimagojr 2017.csv
+# MeSH Preferred concept list
+preferredConcepts: C:\Users\tasosnent\Desktop\Tasks\0 All Projects\Analyzer\PreferredConcepts.json
