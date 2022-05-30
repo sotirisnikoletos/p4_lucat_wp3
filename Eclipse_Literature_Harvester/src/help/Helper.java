@@ -276,7 +276,7 @@ public class Helper {
             printMessage("Warning!: Error creating the "+ folder +" folder",2);  
            return false;
         } else {
-//            printMessage(" Folder "+ folder +" succesfully created");            
+            System.out.println(" Folder "+ folder +" succesfully created");            
            return true;
         }
     }

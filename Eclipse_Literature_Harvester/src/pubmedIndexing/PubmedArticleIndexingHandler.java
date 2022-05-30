@@ -95,7 +95,7 @@ public class PubmedArticleIndexingHandler extends DefaultHandler {
         conflictParentFields.add("QualifierName");
         conflictParentFields.add("Section");
         conflictParentFields.add("SupplMeshName");
-        conflictParentFields.add("URL");       
+        conflictParentFields.add("URL");  
         
         //XML Elements to be stored in the index, so that can be retrieved
             // if empty, all will be stored

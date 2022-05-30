@@ -1,0 +1,9 @@
+inputDir: /home/fot/workspace/tmp
+lastUpdate: 2021/10/13
+keywords: Lung Neoplasms
+mongodb: {host: 127.0.0.1, port: 27017, dbname: iasis, username: root, password: root}
+pathDelimiter: /
+rabbitmq: {host: localhost, port: 5672, username: guest, password: guest, exchange: iasis.direct,
+  routingkeyListen: iasis.literature_harvester.routingkey, queueListen: iasis.literature_harvester.queue,
+  routingkeySent: iasis.orchestrator.routingkey, queueSent: iasis.orchestrator.queue,
+  modulename: literature_harvester}

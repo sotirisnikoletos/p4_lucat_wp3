@@ -116,6 +116,8 @@ public class PmcHandler extends DefaultHandler {
                                         this.idType = "pmid";
                                     } else if(attName.equals("pub-id-type") && attValue.equals("pmc")){
                                         this.idType = "pmc";
+                                    } else if(attName.equals("pub-id-type") && attValue.equals("doi")){
+                                    	this.idType = "doi";
                                     }
                                 }
                             }
@@ -167,6 +169,8 @@ public class PmcHandler extends DefaultHandler {
         if(getFieldName()!= null){
 //                    System.out.println(" \t " + getFieldName() + " \t->" + new String(ch, start, length));
             if(this.insideField("article-meta")){ // it is a sub-element of "article-meta"
+            
+                     
                 // Get article ids
                 if(getFieldName().equals("article-id")){ // it is an id of the article
                     //check what kind of id is this

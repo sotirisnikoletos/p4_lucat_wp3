@@ -416,6 +416,12 @@ public class dataWriter {
 // Add a check to avoid harvesting already harvested articles
 //        if(!checkedPMIDS.contains(pmid)){
 //            checkedPMIDS.add(pmid);
+        
+          // FOT article doi
+            String doi = Helper.StringArrayToString(doc.getValues("ELocationID"));
+ 
+           
+           
         String title = Helper.StringArrayToString(doc.getValues("ArticleTitle")); // 1 No synonyms
 //        String year = doc.get("PubDate-Year"); // ? with synonyms but MedlineDate 
         String year = Helper.StringArrayToString(doc.getValues("PubDate-Year")); // ? with synonyms but MedlineDate 
@@ -467,6 +473,9 @@ public class dataWriter {
             docJSON.put("year", year);
             docJSON.put("authors", authors);
             docJSON.put("authorList", aithorList);
+            
+            //FOT - doi addition
+            docJSON.put("doi", doi);
 
             // Mesh Headings
             JSONArray meshList = Helper.StringArrayToJSONList(doc.getValues("DescriptorName_UI"));
@@ -484,6 +493,8 @@ public class dataWriter {
             if(this.extraFields){     
                 docJSON.put("MeshPTnames", meshPublicationTypeNameList);
             }
+ 
+  
             // Author affiliations
             String[] AffiliationList = doc.getValues("AuthorList-Affiliation");
             // collect uniwue values

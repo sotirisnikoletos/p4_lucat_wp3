@@ -7,7 +7,12 @@ package mongoConnect;
 // add javaMongoDriver/*.jar
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
+import com.mongodb.MongoCredential;
+import com.mongodb.ServerAddress;
 import com.mongodb.client.MongoDatabase;
+
+import java.util.Arrays;
+
 import org.bson.Document;
 import com.mongodb.client.MongoCollection;
 
@@ -26,6 +31,7 @@ public class MongoDatasetConnector {
     private MongoCollection collection;
 //  The dataset ID
     private String dataSetId;
+
     /**
      * Create a collection in MongoDB to store a dataset and provide the functionality to add JSON object in this collection
      * @param ip                The MongoDB IP
@@ -41,6 +47,28 @@ public class MongoDatasetConnector {
         // Delete previous content if any
         BasicDBObject document = new BasicDBObject();
         collection.deleteMany(document);
+    }
+
+    public MongoDatasetConnector(String ip, int port, String dataBaseName,String dataSetName, String username, String password){
+       // mongoClient = new MongoClient(ip, port);
+
+        // FOT ADDITION: Creating Credentials 
+        MongoCredential credential; 
+        credential = MongoCredential.createCredential(username, "admin", password.toCharArray()); 
+        System.out.println("Created MongoDB credentials");  
+        mongoClient = new MongoClient(new ServerAddress(ip,port),Arrays.asList(credential));
+        
+        System.out.println("Connected to the database successfully");
+        
+        db = mongoClient.getDatabase(dataBaseName);
+        
+        dataSetId = dataSetName;
+        collection = this.createCollection(dataSetName);
+        System.out.println("created MongoDB collection "+dataSetName);
+        // Delete previous content if any
+        BasicDBObject document = new BasicDBObject();
+        collection.deleteMany(document);
+        System.out.println("Deleted previous MongoDB collections...");
     }
 
     /**

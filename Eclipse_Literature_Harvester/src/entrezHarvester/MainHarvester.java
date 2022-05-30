@@ -155,11 +155,13 @@ public class MainHarvester {
             PmcParser.setPathDelimiter(getPathDelimiter());
         }
         //  0.1     Run locally without the RabbitMQConnector         
-            MainHarvester.proceed();
+           MainHarvester.proceed();
         //  0.2     Run normally on server with the RabbitMQConnector         
 /*
- *             //FOT - commented
- *      RabbitMQConnector r  = new RabbitMQConnector(s);
+              //FOT - uncommented
+            
+       RabbitMQConnector r  = new RabbitMQConnector(s);
+ 
         try {
             r.receiveMessages(s);
         } catch (IOException ex) {
@@ -167,7 +169,7 @@ public class MainHarvester {
         } catch (TimeoutException ex) {
             Logger.getLogger(MainHarvester.class.getName()).log(Level.SEVERE, null, ex);
         }
-  */              
+ */ 
     }
     
     public static void proceed() 
@@ -256,7 +258,9 @@ public class MainHarvester {
             		//continue;
             	
                 MainHarvester tsm = new MainHarvester(datasetID, queries.get(source),source);
-                // Do steps to create dataSet(s)("Do not stop and wait before indexing", "Do not add extra fields that the official ones")                    
+                // Do steps to create dataSet(s)("Do not stop and wait before indexing", "Do not add extra fields that the official ones")
+                
+                System.err.println("Proceed with other steps...");
                 tsm.doSteps(true,true);     
 //                System.err.println(" - ");
             }      
@@ -284,6 +288,7 @@ public class MainHarvester {
             	
             	PmcParser pc = new PmcParser(this.baseFolder+ "//JSON");
 //              Write all in one JSON file may cause "out of memory exception"
+            	System.err.println("Trying to tranform xmls to mongo");
                 pc.xmlsToMongo(this.xmlFolder, this.mongoArticleDataSet);
 //              Wirte in separate JSON files, memory safe for small "harvesting step"
 //                pc.xmlsToJsons(this.xmlFolder, this.jsonFile.replace("JSON.json", "\\PMCjson"));
@@ -320,10 +325,19 @@ public class MainHarvester {
         String host = s.getProperty("mongodb/host").toString();
         int port = (Integer)s.getProperty("mongodb/port");
         String dbName = s.getProperty("mongodb/dbname").toString();        
-        mongoArticleDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source);
+        
+        //mongoArticleDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source);
+        //FOT: connect without credentials
+        //String user = s.getProperty("mongodb/username").toString(); 
+        //String pass = s.getProperty("mongodb/password").toString(); 
+        mongoArticleDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source);//, user, pass);
+        
         //For PubMed create addtional dataset for Mesh relations harvested
         if(this.source.equals("pubmed")){
-            mongoMeshRelationsDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source + "_MeSH");
+            //mongoMeshRelationsDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source + "_MeSH");
+            //FOT: connect without credentials
+            mongoMeshRelationsDataSet = new MongoDatasetConnector(host, port,dbName,dataSetID + "_" + source + "_MeSH");//, user, pass);
+
             jsonMeshFile = baseFolder + "MESH.json";                            
         }
         // Redirect output to Log file 
