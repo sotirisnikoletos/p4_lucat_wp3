@@ -1,3 +1,0 @@
-1. MATCH ()-[r]->() WHERE "DRUGBANK" in  r.resource SET  r.resource = FILTER(x IN r.resource WHERE x <> "DRUGBANK")  ## αν το r.resource ειναι λίστα από strings απλά κάνει pop το string "DRUGBANK" απο τη λίστα αν υπάρχει αλλά διατηρεί την ακμή.
-2. MATCH ()-[r]->() WHERE r.resource = [] DELETE r ## διαγράφει τις ακμές με κενό resource που προέκυψαν από το προηγούμενο query (i.e. το μόνο resource για μια ακμή ηταν η DRUGBANK, το οποίο αφαιρέθηκε σαν string από την λιστα και πλέον είναι κενή)
-3. MATCH ()-[r]->() WHERE r.resource = "DRUGBANK" DELETE r ## αν το r.resource ειναι string  == "DRUGBANK" τοτε διαγράφει την ακμή
