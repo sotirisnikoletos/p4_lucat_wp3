@@ -1,0 +1,301 @@
+﻿drug,rel,target
+"Antibodies, Bispecific",INTERACTS_WITH,Growth Factor Receptors
+c-erbB-1 Proto-Oncogenes,INTERACTS_WITH,Growth Factor Receptors
+"Phosphatidylinositol 4,5-Diphosphate",INTERACTS_WITH,Growth Factor Receptors
+"PIK3CG protein, human",INTERACTS_WITH,Growth Factor Receptors
+Sirolimus,INTERACTS_WITH,Growth Factor Receptors
+Adenoviral Vector,INTERACTS_WITH,"Receptors, Lectin"
+calmodulin-dependent protein kinase II,INTERACTS_WITH,LMNA gene
+Candidate Disease Gene,INTERACTS_WITH,Albendazole
+EZH2 gene,INTERACTS_WITH,Albendazole
+NPS gene,INTERACTS_WITH,high density lipoprotein receptors
+NF-Kappa B p65,INTERACTS_WITH,Pyrrolidinedithiocarbamate
+Candidate Disease Gene,INTERACTS_WITH,Notch Receptor Intracellular Domain
+Participant,INTERACTS_WITH,Physicians; Physician/Osteopath; Orthopedic
+Monoclonal Antibodies,INTERACTS_WITH,CD276 Antigen
+Laxatives,INTERACTS_WITH,Delayed Release Dosage Form
+Cyclooxygenase 2 Inhibitors,INTERACTS_WITH,Delayed Release Dosage Form
+SARS coronavirus RNA,INTERACTS_WITH,Delayed Release Dosage Form
+Complement 3,INTERACTS_WITH,Delayed Release Dosage Form
+expression vector,INTERACTS_WITH,Glycosylphosphatidylinositols
+Vaccines,INTERACTS_WITH,JAK1 gene
+poly(tetramethylene succinate-co-tetramethylene adipate),INTERACTS_WITH,Catechol Oxidase
+ACE2 gene,INTERACTS_WITH,hopeaphenol
+"Antibodies, Anti-Idiotypic",INTERACTS_WITH,KDM5D gene
+Intercellular Adhesion Molecule 2,INTERACTS_WITH,CD18 Antigens
+Pharmaceutical Preparations,INTERACTS_WITH,NOD2 gene
+Pharmaceutical Preparations,INTERACTS_WITH,ALPL gene
+GPX4 gene,INTERACTS_WITH,KLF11 gene
+"Promoter Regions, Genetic",INTERACTS_WITH,KLF11 gene
+Tricyclic Antidepressive Agents,INTERACTS_WITH,Imipramine
+cytokine,INTERACTS_WITH,salicylanilide
+Reading Frames (Nucleotide Sequence),INTERACTS_WITH,PIK3CA wt Allele
+Reading Frames (Nucleotide Sequence),INTERACTS_WITH,PIK3CA wt Allele
+Ligands,INTERACTS_WITH,MLN 4760
+gefitinib,INTERACTS_WITH,Oncogenes
+MicroRNAs,INTERACTS_WITH,Oncogenes
+Cisplatin,INTERACTS_WITH,Oncogenes
+Cyclin D1,INTERACTS_WITH,Oncogenes
+Pharmaceutical Preparations,INTERACTS_WITH,Oncogenes
+"RNA, Small Interfering",INTERACTS_WITH,Oncogenes
+Genome,INTERACTS_WITH,Oncogenes
+promoter,INTERACTS_WITH,Oncogenes
+Transcript,INTERACTS_WITH,Oncogenes
+MTUS1 gene,INTERACTS_WITH,Oncogenes
+p21 K-Ras Protein,INTERACTS_WITH,Oncogenes
+CEL gene,INTERACTS_WITH,Oncogenes
+MMRN1 gene,INTERACTS_WITH,Oncogenes
+MicroRNAs,INTERACTS_WITH,Oncogenes
+Genomic DNA,INTERACTS_WITH,Oncogenes
+DEGS1 wt Allele,INTERACTS_WITH,Oncogenes
+Tumor Suppressor Genes,INTERACTS_WITH,Oncogenes
+receptor,INTERACTS_WITH,Angiogenesis Inhibitors
+Endothelial Growth Factors,INTERACTS_WITH,Angiogenesis Inhibitors
+MPE gene,INTERACTS_WITH,Angiogenesis Inhibitors
+mesothelin,INTERACTS_WITH,Angiogenesis Inhibitors
+KDR gene,INTERACTS_WITH,Angiogenesis Inhibitors
+IGF2BP2 gene,INTERACTS_WITH,Angiogenesis Inhibitors
+Antineoplastic Agents,INTERACTS_WITH,Angiogenesis Inhibitors
+TXNIP gene,INTERACTS_WITH,PPIA gene
+Basis,INTERACTS_WITH,PPIA gene
+Genome,INTERACTS_WITH,RAD51 gene
+CD9 antigen,INTERACTS_WITH,LILRB1 gene
+Sirolimus,INTERACTS_WITH,Ribosomal Protein S6 Kinase
+EIF4A3 gene,INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+Apelin,INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+p21 K-Ras Protein,INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+Microtubule-Associated Proteins 1A/1B Light Chain 3,INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+"FRAP1 protein, human",INTERACTS_WITH,Ribosomal Protein S6 Kinase Beta-1
+trametinib,INTERACTS_WITH,ATG13 gene
+"Resins, Plant",INTERACTS_WITH,ATG13 gene
+Vitamins,INTERACTS_WITH,Sodium Dodecyl Sulfate
+MMRN1 gene,INTERACTS_WITH,"Discoidin Domain-Containing Receptor 2, Human"
+PADI4 gene,INTERACTS_WITH,guanylate
+"PTK2 protein, human",INTERACTS_WITH,Nevirapine
+Genes,INTERACTS_WITH,ATP6V1B2 gene
+Genes,INTERACTS_WITH,"ATP Synthase Subunit Epsilon, Mitochondrial"
+Genes,INTERACTS_WITH,ATP5B gene
+Cisplatin,INTERACTS_WITH,IRF5 gene
+CEL gene,INTERACTS_WITH,IRF5 gene
+SNORA62 gene,INTERACTS_WITH,Retinoblastoma Protein
+E2F1 wt Allele,INTERACTS_WITH,Retinoblastoma Protein
+Endothelin,INTERACTS_WITH,EDNRB wt Allele
+ACE2 gene,INTERACTS_WITH,Astemizole
+ACE2 gene,INTERACTS_WITH,Astemizole
+Keto Acids,INTERACTS_WITH,Hydroxy Acids
+CEACAM6 gene,INTERACTS_WITH,Mucin-16
+WDR82P1 gene,INTERACTS_WITH,CA-19-9 Antigen
+E-Selectin,INTERACTS_WITH,CA-19-9 Antigen
+Genes,INTERACTS_WITH,GC acyltransferase
+ALYREF gene,INTERACTS_WITH,dabrafenib
+BRAF gene,INTERACTS_WITH,dabrafenib
+ALYREF gene,INTERACTS_WITH,trametinib
+ATG13 gene,INTERACTS_WITH,trametinib
+"BECN1 protein, human",INTERACTS_WITH,trametinib
+Mitogen-Activated Protein Kinase Kinases,INTERACTS_WITH,trametinib
+Anthelmintics,INTERACTS_WITH,glutamate-gated chloride channel
+LHFPL3-AS2 gene,INTERACTS_WITH,EGR1 gene
+HIF1A gene,INTERACTS_WITH,TNF-related apoptosis-inducing ligand
+ASAH1 gene,INTERACTS_WITH,TSC2 gene
+HDAC6 gene,INTERACTS_WITH,TSC2 gene
+G3BP2 gene,INTERACTS_WITH,TSC2 gene
+CD274 gene,INTERACTS_WITH,TSC2 gene
+ACTA2-AS1 gene,INTERACTS_WITH,TSC2 gene
+FES wt Allele,INTERACTS_WITH,B4GALNT2 gene
+Membrane receptor,INTERACTS_WITH,S100B gene
+Genome,INTERACTS_WITH,Cell Cycle Checkpoint Genes
+Long Intergenic Non-Protein Coding RNA,INTERACTS_WITH,Cell Cycle Checkpoint Genes
+Aim,INTERACTS_WITH,Forkhead Box Protein P3
+"Genes, Regulator",INTERACTS_WITH,ARNTL gene
+Pharmaceutical Preparations,INTERACTS_WITH,CES1 gene
+TNFRSF21 gene,INTERACTS_WITH,OTUB2 gene
+RIPK4 gene,INTERACTS_WITH,RIPK2 gene
+DSTYK gene,INTERACTS_WITH,RIPK2 gene
+RIPK1 gene,INTERACTS_WITH,RIPK2 gene
+Pharmacologic Substance,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+dihydromyricetin,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+"MAO A Inhibitors, antidepressant drugs",INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+MIB2 gene,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+acetylshikonin,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+britannin,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+Oxidoreductase,INTERACTS_WITH,monooxyethylene trimethylolpropane tristearate
+Phosphoric Monoester Hydrolases,INTERACTS_WITH,1-Phosphatidylinositol 4-Kinase
+PTEN gene,INTERACTS_WITH,1-Phosphatidylinositol 4-Kinase
+Horseradish Peroxidase,INTERACTS_WITH,neutravidin
+Viral Proteins,INTERACTS_WITH,Calnexin
+Child,INTERACTS_WITH,Chronically ill children
+Family,INTERACTS_WITH,Chronically ill children
+Pharmacologic Substance,INTERACTS_WITH,PRPF40A gene
+Azithromycin,INTERACTS_WITH,Reduced Glutathione
+Ergocalciferol,INTERACTS_WITH,Margarine
+"PIK3CG protein, human",INTERACTS_WITH,GPR35 gene
+RAB26 gene,INTERACTS_WITH,Adrenergic Receptor
+Pharmaceutical Preparations,INTERACTS_WITH,isoliquiritigenin
+Pharmacologic Substance,INTERACTS_WITH,HSPA4 gene
+ponatinib,INTERACTS_WITH,nilotinib
+"Antibodies, Monoclonal, Humanized",INTERACTS_WITH,Ma+Ta Antibody
+SOX2 Transcription Factor,INTERACTS_WITH,NCL gene
+Glycosylphosphatidylinositols,INTERACTS_WITH,expression vector
+Vaccine Antigen,INTERACTS_WITH,expression vector
+SOX2 Transcription Factor,INTERACTS_WITH,expression vector
+"DNA, Complementary",INTERACTS_WITH,expression vector
+Hygromycin B,INTERACTS_WITH,expression vector
+Program,INTERACTS_WITH,pinocembrin
+student,INTERACTS_WITH,Physical Therapist Assistants
+TP53 gene,INTERACTS_WITH,KLF2 gene
+EZH2 gene,INTERACTS_WITH,KLF2 gene
+Genes,INTERACTS_WITH,KLF2 gene
+SRSF1 gene,INTERACTS_WITH,Cyclin D1
+SIX1 gene,INTERACTS_WITH,Cyclin D1
+Cisplatin,INTERACTS_WITH,Cyclin D1
+DDR1 gene,INTERACTS_WITH,Cyclin D1
+caspase-3,INTERACTS_WITH,Cyclin D1
+ANXA7 gene,INTERACTS_WITH,Cyclin D1
+Cordycepin,INTERACTS_WITH,Cyclin D1
+Oncogenes,INTERACTS_WITH,Cyclin D1
+CENPH gene,INTERACTS_WITH,Cyclin D1
+Genes,INTERACTS_WITH,Cyclin D1
+Immunoglobulin G,INTERACTS_WITH,Oligoclonal Bands (protein)
+GA-Binding Protein Transcription Factor,INTERACTS_WITH,CUL3 gene
+ACE2 gene,INTERACTS_WITH,MAS1 gene
+receptor,INTERACTS_WITH,Prorenin
+RNA Recognition Motif,INTERACTS_WITH,BACE2 gene
+ENPEP gene,INTERACTS_WITH,MPE gene
+Cisplatin,INTERACTS_WITH,MPE gene
+Angiogenesis Inhibitors,INTERACTS_WITH,MPE gene
+NPAS2 gene,INTERACTS_WITH,indole-3-carbinol
+"Promoter Regions, Genetic",INTERACTS_WITH,MGMT gene
+Genes,INTERACTS_WITH,S1PR1 gene
+Homeobox Protein Hox-C11,INTERACTS_WITH,SPHK1 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,SPHK1 gene
+Vascular Endothelial Growth Factor Receptor-3,INTERACTS_WITH,"SYK protein, human"
+Sirolimus,INTERACTS_WITH,"SYK protein, human"
+"SYK protein, human",INTERACTS_WITH,Vascular Endothelial Growth Factor Receptor-3
+Acetic Acid,INTERACTS_WITH,Vinegar
+NHS gene,INTERACTS_WITH,TSPAN1 gene
+FAM3C gene,INTERACTS_WITH,SERINC3 gene
+FAM3C gene,INTERACTS_WITH,SERINC3 gene
+Microorganism,INTERACTS_WITH,Sphingomonas
+"DNA, Complementary",INTERACTS_WITH,Ribonuclease H
+Actins,INTERACTS_WITH,WDR45B gene
+Adenosine,INTERACTS_WITH,Equilibrative Nucleoside Transport Proteins
+Nucleoside Analogs,INTERACTS_WITH,SLC29A1 gene
+Nucleosides,INTERACTS_WITH,SLC29A1 gene
+Nucleosides,INTERACTS_WITH,SLC29A2 gene
+Nucleoside Analogs,INTERACTS_WITH,SLC29A2 gene
+SREBF2 gene,INTERACTS_WITH,Mevalonate
+Phosphotransferases,INTERACTS_WITH,Mevalonate
+Hydroxymethylglutaryl-CoA Reductase Inhibitors,INTERACTS_WITH,Mevalonate
+Agonist,INTERACTS_WITH,phosphorothioate
+Nitric Oxide,INTERACTS_WITH,lipoxin A4
+SIGLEC10 gene,INTERACTS_WITH,C1QBP gene
+Complement component,INTERACTS_WITH,C1QBP gene
+FPR2 gene,INTERACTS_WITH,C1QBP gene
+"N protein, Severe acute respiratory syndrome virus",INTERACTS_WITH,histone acetyltransferase
+"N protein, Severe acute respiratory syndrome virus",INTERACTS_WITH,p300/CBP-Associated Factor
+"N protein, Severe acute respiratory syndrome virus",INTERACTS_WITH,KAT2B gene
+sodium arsenite,INTERACTS_WITH,EIF4E wt Allele
+MOB3 gene,INTERACTS_WITH,EIF4E wt Allele
+MOB3 gene,INTERACTS_WITH,EIF4E wt Allele
+EPCAM wt Allele,INTERACTS_WITH,EIF4E wt Allele
+SOX2 Transcription Factor,INTERACTS_WITH,EIF4E wt Allele
+Epitopes,INTERACTS_WITH,ENOX2 gene
+RAD51B gene,INTERACTS_WITH,NUCB1 gene
+DNA,INTERACTS_WITH,NUCB1 gene
+complex (molecular entity),INTERACTS_WITH,beta 2-Glycoprotein I
+Benzene ring,INTERACTS_WITH,Thiazoles
+MCL1 gene,INTERACTS_WITH,Benzene ring
+Thiazoles,INTERACTS_WITH,Benzene ring
+Pharmaceutical Preparations,INTERACTS_WITH,Benzene ring
+MMP9 gene,INTERACTS_WITH,Connexins
+PINK1 gene,INTERACTS_WITH,MFN2 gene
+Prostaglandins G,INTERACTS_WITH,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone
+EGR2 gene,INTERACTS_WITH,ITGAV gene
+ZEB2 gene,INTERACTS_WITH,ITGAV gene
+CCNA2 gene,INTERACTS_WITH,ITGAV gene
+Glycoproteins,INTERACTS_WITH,toll-like receptor 4
+HMGB1 gene,INTERACTS_WITH,toll-like receptor 4
+TET1 gene,INTERACTS_WITH,CpG Islands
+Cisplatin,INTERACTS_WITH,CpG Islands
+EZH2 gene,INTERACTS_WITH,CpG Islands
+PSAT1 wt Allele,INTERACTS_WITH,abemaciclib
+"DNA, Single-Stranded",INTERACTS_WITH,RPA2 gene
+Complement factor,INTERACTS_WITH,Complement 3b Receptor
+Immunoglobulin Isotypes,INTERACTS_WITH,canagliflozin
+DDX53 gene,INTERACTS_WITH,canagliflozin
+"Antigens, CD274",INTERACTS_WITH,canagliflozin
+STUB1 gene,INTERACTS_WITH,canagliflozin
+SLC5A2 gene,INTERACTS_WITH,canagliflozin
+"Antigens, CD274",INTERACTS_WITH,canagliflozin
+LINC01094 gene,INTERACTS_WITH,SPI1 gene
+monocyte chemoattractant protein-3,INTERACTS_WITH,SPI1 gene
+Anti-Bacterial Agents,INTERACTS_WITH,biochar
+Subfamily lentivirinae,INTERACTS_WITH,Lentivirus Infections
+RNA Recognition Motif,INTERACTS_WITH,Siderophores
+Galectin 3,INTERACTS_WITH,MUC16 gene
+UHRF1 gene,INTERACTS_WITH,MUC17 gene
+UHRF1 gene,INTERACTS_WITH,MUC17 gene
+MZF1 gene,INTERACTS_WITH,MUC17 gene
+BCL-2 Protein,INTERACTS_WITH,Heat Shock Protein HSP 90-Beta
+Arginine,INTERACTS_WITH,ASS1 gene
+erastin,INTERACTS_WITH,ASS1 gene
+TMEM173 gene,INTERACTS_WITH,"LGALS9 protein, human"
+Hepatitis A Virus Cellular Receptor 2,INTERACTS_WITH,"LGALS9 protein, human"
+Interferon-beta,INTERACTS_WITH,"LGALS9 protein, human"
+Surface Antigens,INTERACTS_WITH,"Cysteinyl-tRNA Synthetase, Cytoplasmic"
+Antigens,INTERACTS_WITH,"Cysteinyl-tRNA Synthetase, Cytoplasmic"
+receptor,INTERACTS_WITH,TREM2 gene
+student,INTERACTS_WITH,Computer engineer
+Antagonist drug,INTERACTS_WITH,Secretory Phospholipase A2
+leupeptin,INTERACTS_WITH,narlaprevir
+Endopeptidases,INTERACTS_WITH,ACH-806
+IMPACT gene,INTERACTS_WITH,UVRAG wt Allele
+Enzymes,INTERACTS_WITH,hispidin
+CD274 gene,INTERACTS_WITH,MTR wt Allele
+DLGAP1-AS1 gene,INTERACTS_WITH,DTL gene
+Serum amyloid A protein,INTERACTS_WITH,Revival
+Genes,INTERACTS_WITH,GZMH gene
+sevoflurane,INTERACTS_WITH,TNFAIP3 gene
+Propofol,INTERACTS_WITH,TNFAIP3 gene
+Glutamate-Cysteine Ligase,INTERACTS_WITH,GCLM gene
+Candidate Disease Gene,INTERACTS_WITH,GCLM gene
+Genes,INTERACTS_WITH,Zalcitabine
+BECN1 gene,INTERACTS_WITH,BCL-2 Protein
+BCL2L1 gene,INTERACTS_WITH,BCL-2 Protein
+STK4 gene,INTERACTS_WITH,BCL-2 Protein
+WSN gene,INTERACTS_WITH,BCL-2 Protein
+DUOXA1 gene,INTERACTS_WITH,BCL-2 Protein
+CDK9 gene,INTERACTS_WITH,BCL-2 Protein
+Heat Shock Protein HSP 90-Beta,INTERACTS_WITH,BCL-2 Protein
+Phospholipids,INTERACTS_WITH,diene
+metoprolol tartrate,INTERACTS_WITH,Metoprolol
+Ritonavir,INTERACTS_WITH,Nifedipine
+GATA3 gene,INTERACTS_WITH,NRP1 gene
+ALDH2 gene,INTERACTS_WITH,HNF4A gene
+Aldehyde Dehydrogenase Mitochondrial,INTERACTS_WITH,HNF4A gene
+Interferons,INTERACTS_WITH,HNF4A gene
+ACE2 gene,INTERACTS_WITH,HNF4A gene
+"Genes, Neoplasm",INTERACTS_WITH,SCGB3A2 gene
+"MMP3 protein, human",INTERACTS_WITH,Chlorogenic acid
+BCL2 gene,INTERACTS_WITH,Chlorogenic acid
+caspase-3,INTERACTS_WITH,Chlorogenic acid
+member,INTERACTS_WITH,Military Family
+spouse,INTERACTS_WITH,Military Family
+Genes,INTERACTS_WITH,HEG1 gene
+ACE2 gene,INTERACTS_WITH,PRDX2 gene
+monooxyethylene trimethylolpropane tristearate,INTERACTS_WITH,dihydromyricetin
+Lipase,INTERACTS_WITH,"Genome, Chloroplast"
+Dextranase,INTERACTS_WITH,"Genome, Chloroplast"
+mutanase,INTERACTS_WITH,"Genome, Chloroplast"
+Gonadotropins,INTERACTS_WITH,Leuprolide Acetate
+TMPRSS2 gene,INTERACTS_WITH,halofuginone
+TMPRSS2 gene,INTERACTS_WITH,DDB1 gene
+TMPRSS2 gene,INTERACTS_WITH,VPRBP gene
+ACE2 gene,INTERACTS_WITH,LOR gene
+ACE2 gene,INTERACTS_WITH,N-methylephedrine
+Ions,INTERACTS_WITH,Heme
+e protein,INTERACTS_WITH,Heme
+Peptides,INTERACTS_WITH,Heme
+e protein,INTERACTS_WITH,Heme
+Antiviral Agents,INTERACTS_WITH,N-acetyltryptophanamide
