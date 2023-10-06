@@ -1,0 +1,1279 @@
+﻿n.label,type(r),type(r1),m.label
+Tumor Suppressor Genes,INTERACTS_WITH,INHIBITS,Oncogenes
+Tumor Suppressor Genes,INTERACTS_WITH,INHIBITS,Oncogenes
+MPE gene,INTERACTS_WITH,INHIBITS,Angiogenesis Inhibitors
+Mitogen-Activated Protein Kinase Kinases,INTERACTS_WITH,INHIBITS,trametinib
+EZH2 gene,INTERACTS_WITH,INHIBITS,KLF2 gene
+EZH2 gene,INTERACTS_WITH,INHIBITS,KLF2 gene
+Angiogenesis Inhibitors,INTERACTS_WITH,INHIBITS,MPE gene
+MCL1 gene,INTERACTS_WITH,INHIBITS,Benzene ring
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,canagliflozin
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,canagliflozin
+UHRF1 gene,INTERACTS_WITH,INHIBITS,MUC17 gene
+UHRF1 gene,INTERACTS_WITH,INHIBITS,MUC17 gene
+Hepatitis A Virus Cellular Receptor 2,INTERACTS_WITH,INHIBITS,"LGALS9 protein, human"
+YAP1 gene,INTERACTS_WITH,INHIBITS,DUSP1 gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,DUSP1 gene
+RTKN gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+RTKN gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+GOLM1 gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+RTKN gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+RTKN gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+GOLM1 gene,INTERACTS_WITH,INHIBITS,MIR145 gene
+"Alkaline phosphatase isoenzyme, bone fraction",INTERACTS_WITH,INHIBITS,CYP1A1 gene
+boswellic acid,INTERACTS_WITH,INHIBITS,uvaol
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,PHLPP1 gene
+VIM gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+VIM gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+CDH2 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+MicroRNAs,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+MicroRNAs,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+KLF4 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+CDH1 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+CDH1 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+VIM gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+VIM gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+CDH2 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+CDH17 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+SETD2 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+deguelin,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+PTPRA gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+KLF4 gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+PTEN gene,INTERACTS_WITH,INHIBITS,SLC22A3 wt Allele
+PRDX5 gene,INTERACTS_WITH,INHIBITS,"Neurogenic Locus Notch Homolog Protein 3, human"
+CD274 gene,INTERACTS_WITH,INHIBITS,EZR gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,EZR gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,Lisinopril
+NSUN2 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+NSUN2 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+YBX1 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+YBX1 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+NSUN2 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+NSUN2 gene,INTERACTS_WITH,INHIBITS,QSOX1 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,FOXO1 gene
+Genes,INTERACTS_WITH,INHIBITS,Glycogen Synthase Kinase 3
+PBK gene,INTERACTS_WITH,INHIBITS,xanthohumol
+EZR gene,INTERACTS_WITH,INHIBITS,CD274 gene
+Tumor Suppressor Genes,INTERACTS_WITH,INHIBITS,CD274 gene
+IRF1 gene,INTERACTS_WITH,INHIBITS,CD274 gene
+IRF1 gene,INTERACTS_WITH,INHIBITS,CD274 gene
+KPNA2 gene,INTERACTS_WITH,INHIBITS,CD274 gene
+ERCC5 gene,INTERACTS_WITH,INHIBITS,Platinum
+POU6F1 gene,INTERACTS_WITH,INHIBITS,pyruvate dehydrogenase kinase isoform 1
+Pentoxifylline,INTERACTS_WITH,INHIBITS,CHEK1 gene
+Pentoxifylline,INTERACTS_WITH,INHIBITS,CHEK1 gene
+PRMT5 gene,INTERACTS_WITH,INHIBITS,AKT1 gene
+CYP1B1 gene,INTERACTS_WITH,INHIBITS,"Alkaline phosphatase isoenzyme, bone fraction"
+CYP1A1 gene,INTERACTS_WITH,INHIBITS,"Alkaline phosphatase isoenzyme, bone fraction"
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,rho GTP-Binding Proteins
+TET1 gene,INTERACTS_WITH,INHIBITS,"Genes, Neoplasm"
+ENTPD1 wt Allele,INTERACTS_WITH,INHIBITS,ceritinib
+ENTPD1 wt Allele,INTERACTS_WITH,INHIBITS,ceritinib
+NT5E gene,INTERACTS_WITH,INHIBITS,ceritinib
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Cisplatin
+Borneol,INTERACTS_WITH,INHIBITS,Cisplatin
+Mubritinib,INTERACTS_WITH,INHIBITS,Cisplatin
+PKM gene,INTERACTS_WITH,INHIBITS,Cisplatin
+PKM gene,INTERACTS_WITH,INHIBITS,Cisplatin
+C12orf5 gene,INTERACTS_WITH,INHIBITS,Cisplatin
+C12orf5 gene,INTERACTS_WITH,INHIBITS,Cisplatin
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Cisplatin
+shikonin,INTERACTS_WITH,INHIBITS,Cisplatin
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Cisplatin
+USP1 gene,INTERACTS_WITH,INHIBITS,Cisplatin
+TRIP13 gene,INTERACTS_WITH,INHIBITS,gefitinib
+TRIP13 gene,INTERACTS_WITH,INHIBITS,gefitinib
+USP37 gene,INTERACTS_WITH,INHIBITS,gefitinib
+USP37 gene,INTERACTS_WITH,INHIBITS,gefitinib
+SETD3 gene,INTERACTS_WITH,INHIBITS,gefitinib
+FOXA2 gene,INTERACTS_WITH,INHIBITS,SETDB1 gene
+Suppressor,INTERACTS_WITH,INHIBITS,SETDB1 gene
+CD274 gene,INTERACTS_WITH,INHIBITS,Tumor Suppressor Genes
+Oncogenes,INTERACTS_WITH,INHIBITS,Tumor Suppressor Genes
+MicroRNAs,INTERACTS_WITH,INHIBITS,Tumor Suppressor Genes
+Oncogenes,INTERACTS_WITH,INHIBITS,Tumor Suppressor Genes
+Hypoxia-Inducible Factor 1,INTERACTS_WITH,INHIBITS,HSP90 Heat-Shock Proteins
+Hypoxia-Inducible Factor 1,INTERACTS_WITH,INHIBITS,HSP90 Heat-Shock Proteins
+COA6 gene,INTERACTS_WITH,INHIBITS,NADH
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,PTEN gene
+gemcitabine,INTERACTS_WITH,INHIBITS,KCNH2 gene
+MYC Family Genes,INTERACTS_WITH,INHIBITS,Mucin-1 protein
+britannin,INTERACTS_WITH,INHIBITS,ZEB1 gene
+britannin,INTERACTS_WITH,INHIBITS,ZEB1 gene
+Proteins,INTERACTS_WITH,INHIBITS,SNAI2 gene
+MKI67 gene,INTERACTS_WITH,INHIBITS,NSUN2 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,NSUN2 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,NSUN2 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,NSUN2 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,NSUN2 gene
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,Hypoxanthine
+POU6F1 gene,INTERACTS_WITH,INHIBITS,ENO1 gene
+EIF5A gene,INTERACTS_WITH,INHIBITS,FOXP4-AS1 gene
+"RNA, Small Interfering",INTERACTS_WITH,INHIBITS,FOXP4-AS1 gene
+Small Molecule,INTERACTS_WITH,INHIBITS,p21 K-Ras Protein
+phosphoinositidase C,INTERACTS_WITH,INHIBITS,alpha-Synuclein
+Mitogen-Activated Protein Kinase 3,INTERACTS_WITH,INHIBITS,alpha-Synuclein
+shikonin,INTERACTS_WITH,INHIBITS,PKM gene
+shikonin,INTERACTS_WITH,INHIBITS,PKM gene
+Cisplatin,INTERACTS_WITH,INHIBITS,PKM gene
+Cisplatin,INTERACTS_WITH,INHIBITS,PKM gene
+LINC00891 gene,INTERACTS_WITH,INHIBITS,RHOA gene
+GTF2H1 gene,INTERACTS_WITH,INHIBITS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II
+ANTXR1 wt Allele,INTERACTS_WITH,INHIBITS,DDR1 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,"Receptor, Angiotensin, Type 1"
+ACE2 gene,INTERACTS_WITH,INHIBITS,"Receptor, Angiotensin, Type 1"
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,TCEA1 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,S100A4 gene
+olaparib,INTERACTS_WITH,INHIBITS,PARP1 gene
+Poly(ADP-ribose) polymerase inhibitor,INTERACTS_WITH,INHIBITS,PARP1 gene
+Niraparib,INTERACTS_WITH,INHIBITS,PARP1 gene
+PARP1 gene,INTERACTS_WITH,INHIBITS,olaparib
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,pemetrexed
+ceritinib,INTERACTS_WITH,INHIBITS,NT5E gene
+POU6F1 gene,INTERACTS_WITH,INHIBITS,HIF1A gene
+TP53 gene,INTERACTS_WITH,INHIBITS,ABCA1 gene
+TP53 gene,INTERACTS_WITH,INHIBITS,ABCA1 gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,METTL3 gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,METTL3 gene
+heterogeneous nuclear ribonucleoprotein A2-B1,INTERACTS_WITH,INHIBITS,METTL3 gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,METTL3 gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,METTL3 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,SLC5A2 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,SLC5A2 gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,GOLM1 gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,GOLM1 gene
+NSUN2 gene,INTERACTS_WITH,INHIBITS,MKI67 gene
+Vemurafenib,INTERACTS_WITH,INHIBITS,BRAF gene
+Cisplatin,INTERACTS_WITH,INHIBITS,shikonin
+PKM gene,INTERACTS_WITH,INHIBITS,shikonin
+PKM gene,INTERACTS_WITH,INHIBITS,shikonin
+KCNH2 gene,INTERACTS_WITH,INHIBITS,gemcitabine
+Doxorubicin,INTERACTS_WITH,INHIBITS,gemcitabine
+MicroRNAs,INTERACTS_WITH,INHIBITS,Response Elements
+MicroRNAs,INTERACTS_WITH,INHIBITS,Response Elements
+PARP1 gene,INTERACTS_WITH,INHIBITS,Poly(ADP-ribose) polymerase inhibitor
+Antibodies,INTERACTS_WITH,INHIBITS,BLNK gene
+Small Molecule,INTERACTS_WITH,INHIBITS,"PSMD10 protein, human"
+CD274 gene,INTERACTS_WITH,INHIBITS,IRF1 gene
+CD274 gene,INTERACTS_WITH,INHIBITS,IRF1 gene
+KPNA2 gene,INTERACTS_WITH,INHIBITS,IRF1 gene
+MIR21 gene,INTERACTS_WITH,INHIBITS,IRF1 gene
+"STAT5A protein, human",INTERACTS_WITH,INHIBITS,IRF1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Tamoxifen
+EIF2S1 wt Allele,INTERACTS_WITH,INHIBITS,mitogen-activated protein kinase p38
+IRF1 gene,INTERACTS_WITH,INHIBITS,MIR21 gene
+paired basic amino acid cleaving enzyme,INTERACTS_WITH,INHIBITS,CXCL9 wt Allele
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,corilagin
+VWF gene,INTERACTS_WITH,INHIBITS,Glycogen
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+Fusion protein,INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+TBX1 wt Allele,INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Transforming Growth Factor beta
+MicroRNAs,INTERACTS_WITH,INHIBITS,"RNA, Long Untranslated"
+MicroRNAs,INTERACTS_WITH,INHIBITS,"RNA, Long Untranslated"
+mitogen-activated protein kinase p38,INTERACTS_WITH,INHIBITS,EIF2S1 wt Allele
+WEE1 gene,INTERACTS_WITH,INHIBITS,Poly(ADP-ribose) Polymerases
+BCL2 gene,INTERACTS_WITH,INHIBITS,Poly(ADP-ribose) Polymerases
+WEE1 gene,INTERACTS_WITH,INHIBITS,Poly(ADP-ribose) Polymerases
+Plasminogen Activator Inhibitor 1,INTERACTS_WITH,INHIBITS,SMAD3 gene
+LINC00511 gene,INTERACTS_WITH,INHIBITS,SMAD3 gene
+Hypoxia-Inducible Factor 1,INTERACTS_WITH,INHIBITS,gingerol
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,CAMP gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Importins
+Antibodies,INTERACTS_WITH,INHIBITS,PDCD1 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,Octamer Transcription Factor-3
+Microtubule-Associated Proteins 1A/1B Light Chain 3-II,INTERACTS_WITH,INHIBITS,GTF2H1 gene
+celecoxib,INTERACTS_WITH,INHIBITS,"prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human"
+cyclooxygenase 1,INTERACTS_WITH,INHIBITS,"prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human"
+Pentoxifylline,INTERACTS_WITH,INHIBITS,BAX gene
+BCL2 gene,INTERACTS_WITH,INHIBITS,BAX gene
+BCL2 gene,INTERACTS_WITH,INHIBITS,BAX gene
+GMFG gene,INTERACTS_WITH,INHIBITS,BAX gene
+caspase-3,INTERACTS_WITH,INHIBITS,BAX gene
+Benzene ring,INTERACTS_WITH,INHIBITS,MCL1 gene
+Cyanides,INTERACTS_WITH,INHIBITS,MCL1 gene
+BMI1 gene,INTERACTS_WITH,INHIBITS,MCL1 gene
+MTUS1 gene,INTERACTS_WITH,INHIBITS,pembrolizumab
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,"Antibodies, Blocking"
+Lidocaine,INTERACTS_WITH,INHIBITS,Stromal Cell-Derived Factor 1
+Lidocaine,INTERACTS_WITH,INHIBITS,Stromal Cell-Derived Factor 1
+"MPZL1 protein, human",INTERACTS_WITH,INHIBITS,"PTK2 protein, human"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"PTK2 protein, human"
+BCAR1 gene,INTERACTS_WITH,INHIBITS,"PTK2 protein, human"
+BCAR1 gene,INTERACTS_WITH,INHIBITS,"PTK2 protein, human"
+"prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human",INTERACTS_WITH,INHIBITS,cyclooxygenase 1
+cytokine,INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+MTUS1 gene,INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+"Antibodies, Bispecific",INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,cytotoxic T-lymphocyte antigen 4
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,"Antibodies, Bispecific"
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,"Antibodies, Bispecific"
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,nafamostat
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,nafamostat
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,nafamostat
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,nafamostat
+Paclitaxel,INTERACTS_WITH,INHIBITS,pirfenidone
+Paclitaxel,INTERACTS_WITH,INHIBITS,pirfenidone
+Genes,INTERACTS_WITH,INHIBITS,"Genes, Overlapping"
+Genes,INTERACTS_WITH,INHIBITS,"Genes, Overlapping"
+alpha-Synuclein,INTERACTS_WITH,INHIBITS,Mitogen-Activated Protein Kinase 3
+"ITK protein, human",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+"ITK protein, human",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+MYC gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+NANOG gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+Octamer Transcription Factor-3,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+"PTK2 protein, human",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+ADAMDEC1 gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+ADAMDEC1 gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+NANOG gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+Mubritinib,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+FOXO1 gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+guaiol,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+PHLPP1 gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+TP53 gene,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Proto-Oncogene Proteins c-akt
+ACE2 gene,INTERACTS_WITH,INHIBITS,Estrogens
+ACE2 gene,INTERACTS_WITH,INHIBITS,Estrogens
+Gonadal Steroid Hormones,INTERACTS_WITH,INHIBITS,Estrogens
+"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human",INTERACTS_WITH,INHIBITS,Mitogen-Activated Protein Kinase Kinases
+trametinib,INTERACTS_WITH,INHIBITS,Mitogen-Activated Protein Kinase Kinases
+Mubritinib,INTERACTS_WITH,INHIBITS,"PIK3CG protein, human"
+GA-Binding Protein Transcription Factor,INTERACTS_WITH,INHIBITS,KEAP1 gene
+GA-Binding Protein Transcription Factor,INTERACTS_WITH,INHIBITS,KEAP1 gene
+S100A4 wt Allele,INTERACTS_WITH,INHIBITS,KEAP1 gene
+TRIM15 gene,INTERACTS_WITH,INHIBITS,KEAP1 gene
+TRIM15 gene,INTERACTS_WITH,INHIBITS,KEAP1 gene
+Antioxidants,INTERACTS_WITH,INHIBITS,KEAP1 gene
+CHEK1 gene,INTERACTS_WITH,INHIBITS,Pentoxifylline
+Aldehyde Dehydrogenase Mitochondrial,INTERACTS_WITH,INHIBITS,Pentoxifylline
+BAX gene,INTERACTS_WITH,INHIBITS,Pentoxifylline
+Aldehyde Dehydrogenase Mitochondrial,INTERACTS_WITH,INHIBITS,Pentoxifylline
+CHEK1 gene,INTERACTS_WITH,INHIBITS,Pentoxifylline
+FAM3C gene,INTERACTS_WITH,INHIBITS,RALA gene
+FAM3C gene,INTERACTS_WITH,INHIBITS,RALA gene
+Polymerase,INTERACTS_WITH,INHIBITS,Nucleoside Analogs
+Polymerase,INTERACTS_WITH,INHIBITS,Nucleoside Analogs
+UBA1 gene,INTERACTS_WITH,INHIBITS,CDK9 gene
+EEF2K gene,INTERACTS_WITH,INHIBITS,Sodium Tetradecyl Sulfate
+RNA-Directed RNA Polymerase,INTERACTS_WITH,INHIBITS,Adenosine
+"BMPR2 protein, human",INTERACTS_WITH,INHIBITS,LCT gene
+"LGALS9 protein, human",INTERACTS_WITH,INHIBITS,Hepatitis A Virus Cellular Receptor 2
+"ITK protein, human",INTERACTS_WITH,INHIBITS,Plasminogen Activator Inhibitor 1
+SMAD3 gene,INTERACTS_WITH,INHIBITS,Plasminogen Activator Inhibitor 1
+"prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human",INTERACTS_WITH,INHIBITS,celecoxib
+E-Cadherin,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+STAT3 gene,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+GMDS-AS1 gene,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+SH2B3 gene,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+E-Cadherin,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+Plasminogen Activator Inhibitor 1,INTERACTS_WITH,INHIBITS,"ITK protein, human"
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Glycyrrhizic Acid
+ICAM1 gene,INTERACTS_WITH,INHIBITS,boswellic acid
+uvaol,INTERACTS_WITH,INHIBITS,boswellic acid
+CYSLTR1 gene,INTERACTS_WITH,INHIBITS,montelukast
+CYSLTR1 gene,INTERACTS_WITH,INHIBITS,montelukast
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,SMAD4 gene
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,TBX1 wt Allele
+YAP1 gene,INTERACTS_WITH,INHIBITS,Blockade
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Blockade
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Blockade
+ACE2 gene,INTERACTS_WITH,INHIBITS,Blockade
+Interleukin-6,INTERACTS_WITH,INHIBITS,Blockade
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Blockade
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Blockade
+ceritinib,INTERACTS_WITH,INHIBITS,ENTPD1 wt Allele
+ceritinib,INTERACTS_WITH,INHIBITS,ENTPD1 wt Allele
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,GA-Binding Protein Transcription Factor
+KEAP1 gene,INTERACTS_WITH,INHIBITS,GA-Binding Protein Transcription Factor
+S100A4 wt Allele,INTERACTS_WITH,INHIBITS,GA-Binding Protein Transcription Factor
+KEAP1 gene,INTERACTS_WITH,INHIBITS,GA-Binding Protein Transcription Factor
+YBX1 gene,INTERACTS_WITH,INHIBITS,MDM2 gene
+YBX1 gene,INTERACTS_WITH,INHIBITS,MDM2 gene
+TP53 gene,INTERACTS_WITH,INHIBITS,MDM2 gene
+TP53 gene,INTERACTS_WITH,INHIBITS,MDM2 gene
+ABCA1 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+ABCA1 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+Genes,INTERACTS_WITH,INHIBITS,TP53 gene
+Genes,INTERACTS_WITH,INHIBITS,TP53 gene
+BCL2 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,TP53 gene
+C12orf5 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+MDM2 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+MDM2 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+SIRT1 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+USP7 gene,INTERACTS_WITH,INHIBITS,TP53 gene
+ubiquitin-protein ligase,INTERACTS_WITH,INHIBITS,TP53 gene
+"EPHB2 protein, human",INTERACTS_WITH,INHIBITS,U 0126
+STAT3 gene,INTERACTS_WITH,INHIBITS,"Proto-Oncogene Tyrosine-Protein Kinase Src, human"
+STAT3 gene,INTERACTS_WITH,INHIBITS,"Proto-Oncogene Tyrosine-Protein Kinase Src, human"
+Stromal Cell-Derived Factor 1,INTERACTS_WITH,INHIBITS,Lidocaine
+Stromal Cell-Derived Factor 1,INTERACTS_WITH,INHIBITS,Lidocaine
+Antibodies,INTERACTS_WITH,INHIBITS,"N,N-Dimethyltryptamine"
+MAP2K3 gene,INTERACTS_WITH,INHIBITS,myricetin
+MAP2K3 gene,INTERACTS_WITH,INHIBITS,myricetin
+Epiregulin,INTERACTS_WITH,INHIBITS,"EPHB2 protein, human"
+Phosphotransferases,INTERACTS_WITH,INHIBITS,"EPHB2 protein, human"
+U 0126,INTERACTS_WITH,INHIBITS,"EPHB2 protein, human"
+Interleukin-6,INTERACTS_WITH,INHIBITS,darunavir
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Membrane Transport Proteins
+COA6 gene,INTERACTS_WITH,INHIBITS,Matrix Metalloproteinases
+ACE2 gene,INTERACTS_WITH,INHIBITS,Anti-Anxiety Agents
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Ion Channel
+Adenosine,INTERACTS_WITH,INHIBITS,RNA-Directed RNA Polymerase
+Antiviral Agents,INTERACTS_WITH,INHIBITS,RNA-Directed RNA Polymerase
+ACO2 gene,INTERACTS_WITH,INHIBITS,MNT gene
+ACO2 gene,INTERACTS_WITH,INHIBITS,MNT gene
+Hydroxymethylglutaryl-CoA Reductase Inhibitors,INTERACTS_WITH,INHIBITS,Cholesterol
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,Famotidine
+ACE2 gene,INTERACTS_WITH,INHIBITS,Aldosterone
+cytokine,INTERACTS_WITH,INHIBITS,Biological Factors
+cytokine,INTERACTS_WITH,INHIBITS,Biological Factors
+cytokine,INTERACTS_WITH,INHIBITS,Granulocyte-Macrophage Colony-Stimulating Factor
+FIGF gene,INTERACTS_WITH,INHIBITS,ADH5 gene
+FIGF gene,INTERACTS_WITH,INHIBITS,ADH5 gene
+FIGF gene,INTERACTS_WITH,INHIBITS,ADH5 gene
+FIGF gene,INTERACTS_WITH,INHIBITS,ADH5 gene
+Glycoproteins,INTERACTS_WITH,INHIBITS,arbidol
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensin-Converting Enzyme Inhibitors
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensin-Converting Enzyme Inhibitors
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensin II receptor antagonist
+TP53 gene,INTERACTS_WITH,INHIBITS,ubiquitin-protein ligase
+Deubiquitinating Enzymes,INTERACTS_WITH,INHIBITS,ubiquitin-protein ligase
+"ITK protein, human",INTERACTS_WITH,INHIBITS,STAT3 gene
+S100A4 gene,INTERACTS_WITH,INHIBITS,STAT3 gene
+"Proto-Oncogene Tyrosine-Protein Kinase Src, human",INTERACTS_WITH,INHIBITS,STAT3 gene
+palbociclib,INTERACTS_WITH,INHIBITS,STAT3 gene
+PGAM1 gene,INTERACTS_WITH,INHIBITS,STAT3 gene
+SH2B3 gene,INTERACTS_WITH,INHIBITS,STAT3 gene
+SH2B3 gene,INTERACTS_WITH,INHIBITS,STAT3 gene
+EPX gene,INTERACTS_WITH,INHIBITS,STAT3 gene
+S3I 201,INTERACTS_WITH,INHIBITS,STAT3 gene
+"Proto-Oncogene Tyrosine-Protein Kinase Src, human",INTERACTS_WITH,INHIBITS,STAT3 gene
+Interleukin-1 beta,INTERACTS_WITH,INHIBITS,STAT3 gene
+Interleukin-1 beta,INTERACTS_WITH,INHIBITS,STAT3 gene
+palbociclib,INTERACTS_WITH,INHIBITS,STAT3 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,STAT3 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,STAT3 gene
+Interleukin-6,INTERACTS_WITH,INHIBITS,STAT3 gene
+Interleukin-6,INTERACTS_WITH,INHIBITS,STAT3 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,Pulmonary Surfactants
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,MTUS1 gene
+pembrolizumab,INTERACTS_WITH,INHIBITS,MTUS1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,MTUS1 gene
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,camostat
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,camostat
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,DNA Helicases
+ADAR gene,INTERACTS_WITH,INHIBITS,"RNA, Double-Stranded"
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,"3C-like protease, SARS coronavirus"
+Ibrutinib,INTERACTS_WITH,INHIBITS,BTK gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,TMEM173 gene
+SOX2 Transcription Factor,INTERACTS_WITH,INHIBITS,TMEM173 gene
+PCAT1 gene,INTERACTS_WITH,INHIBITS,TMEM173 gene
+Estrogens,INTERACTS_WITH,INHIBITS,Gonadal Steroid Hormones
+ACE2 gene,INTERACTS_WITH,INHIBITS,Ascorbic Acid
+TCEA1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Tamoxifen,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Blockade,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Blockade,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Recombinant Interferon-gamma,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+SMAD4 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+OIP5-AS1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+OIP5-AS1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+STAT3 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+STAT3 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+other medicated shampoos in ATC,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+"Antibodies, Bispecific",INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Ouabain,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+SLC5A2 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+SLC5A2 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+canagliflozin,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+canagliflozin,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Hypoxia-Inducible Factor 1,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Hypoxia-Inducible Factor 1,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+OIP5-AS1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+OIP5-AS1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Recombinant Interferon-gamma,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Anti-Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Fusion protein,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Ara-C,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Ara-C,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+MTUS1 gene,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Proteins,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Blockade,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Blockade,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Antibodies,INTERACTS_WITH,INHIBITS,"Antigens, CD274"
+Nucleoside Analogs,INTERACTS_WITH,INHIBITS,Polymerase
+Nucleoside Analogs,INTERACTS_WITH,INHIBITS,Polymerase
+receptor,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+Endopeptidases,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+Famotidine,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Peptide Hydrolases
+YBX1 gene,INTERACTS_WITH,INHIBITS,Plasmids
+"RNA, Double-Stranded",INTERACTS_WITH,INHIBITS,ADAR gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Cathepsin L
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Cathepsin L
+DDR1 gene,INTERACTS_WITH,INHIBITS,ANTXR1 wt Allele
+"RNA, Messenger",INTERACTS_WITH,INHIBITS,DEGS1 wt Allele
+IRF1 gene,INTERACTS_WITH,INHIBITS,"STAT5A protein, human"
+POU6F1 gene,INTERACTS_WITH,INHIBITS,HIF1A wt Allele
+POU6F1 gene,INTERACTS_WITH,INHIBITS,HIF1A wt Allele
+ACE2 gene,INTERACTS_WITH,INHIBITS,Serine Endopeptidases
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,"Receptors, Virus"
+ACE2 gene,INTERACTS_WITH,INHIBITS,"Receptors, Virus"
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Fusion protein
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,Fusion protein
+BTK gene,INTERACTS_WITH,INHIBITS,Ibrutinib
+YAP1 gene,INTERACTS_WITH,INHIBITS,Phosphotransferases
+"EPHB2 protein, human",INTERACTS_WITH,INHIBITS,Phosphotransferases
+Small Molecule,INTERACTS_WITH,INHIBITS,Phosphotransferases
+YAP1 gene,INTERACTS_WITH,INHIBITS,Phosphotransferases
+Genes,INTERACTS_WITH,INHIBITS,Complement System Proteins
+DNA,INTERACTS_WITH,INHIBITS,Complement System Proteins
+Ferritin,INTERACTS_WITH,INHIBITS,Lactate Dehydrogenase
+Ferritin,INTERACTS_WITH,INHIBITS,Lactate Dehydrogenase
+Interleukin 6 Receptor,INTERACTS_WITH,INHIBITS,"Antibodies, Monoclonal, Humanized"
+pollutant,INTERACTS_WITH,INHIBITS,Sulfur Dioxide
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Androgens
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Androgens
+Cholesterol,INTERACTS_WITH,INHIBITS,Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Interleukin-6,INTERACTS_WITH,INHIBITS,CHPT1 wt Allele
+Glucose,INTERACTS_WITH,INHIBITS,Lactate
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Chloroquine
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Chloroquine
+ACE2 gene,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Genes,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+nafamostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+nafamostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Androgens,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Androgens,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+camostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+camostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+nafamostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+nafamostat,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Peptides,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,TMPRSS2 gene
+"RNA, Messenger",INTERACTS_WITH,INHIBITS,Candidate Disease Gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Candidate Disease Gene
+Glutathione,INTERACTS_WITH,INHIBITS,Candidate Disease Gene
+MicroRNAs,INTERACTS_WITH,INHIBITS,Candidate Disease Gene
+MicroRNAs,INTERACTS_WITH,INHIBITS,Candidate Disease Gene
+Genes,INTERACTS_WITH,INHIBITS,Base Sequence
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,Lipids
+DICER1 gene,INTERACTS_WITH,INHIBITS,MicroRNAs
+"RNA, Messenger",INTERACTS_WITH,INHIBITS,MicroRNAs
+"RNA, Messenger",INTERACTS_WITH,INHIBITS,MicroRNAs
+"APEX1 protein, human",INTERACTS_WITH,INHIBITS,MicroRNAs
+Candidate Disease Gene,INTERACTS_WITH,INHIBITS,MicroRNAs
+Candidate Disease Gene,INTERACTS_WITH,INHIBITS,MicroRNAs
+Proteins,INTERACTS_WITH,INHIBITS,MicroRNAs
+Proteins,INTERACTS_WITH,INHIBITS,MicroRNAs
+cytokine,INTERACTS_WITH,INHIBITS,MicroRNAs
+Response Elements,INTERACTS_WITH,INHIBITS,MicroRNAs
+Response Elements,INTERACTS_WITH,INHIBITS,MicroRNAs
+"RNA, Long Untranslated",INTERACTS_WITH,INHIBITS,MicroRNAs
+"RNA, Long Untranslated",INTERACTS_WITH,INHIBITS,MicroRNAs
+Tumor Suppressor Genes,INTERACTS_WITH,INHIBITS,MicroRNAs
+DICER1 gene,INTERACTS_WITH,INHIBITS,MicroRNAs
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,MicroRNAs
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,MicroRNAs
+LINC00665 gene,INTERACTS_WITH,INHIBITS,MicroRNAs
+cytokine,INTERACTS_WITH,INHIBITS,Hemoglobin
+ACE2 gene,INTERACTS_WITH,INHIBITS,ADAM17 gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensins
+ACE2 gene,INTERACTS_WITH,INHIBITS,Interferons
+"RAI3 protein, human",INTERACTS_WITH,INHIBITS,"WNK1 protein, human"
+cytokine,INTERACTS_WITH,INHIBITS,NF-kappa B
+Duration,INTERACTS_WITH,INHIBITS,Antibiotics
+Duration,INTERACTS_WITH,INHIBITS,Antibiotics
+HMGB1 gene,INTERACTS_WITH,INHIBITS,MOK wt Allele
+PHKG1 gene,INTERACTS_WITH,INHIBITS,VWF gene
+PHKG1 gene,INTERACTS_WITH,INHIBITS,VWF gene
+Glycogen,INTERACTS_WITH,INHIBITS,VWF gene
+ADAMTS13 gene,INTERACTS_WITH,INHIBITS,VWF gene
+ADAMTS13 gene,INTERACTS_WITH,INHIBITS,VWF gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,SAG gene
+DNA Modification Methylases,INTERACTS_WITH,INHIBITS,Metformin
+cytokine,INTERACTS_WITH,INHIBITS,Metformin
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Recombinant Interferon-gamma
+Interleukins,INTERACTS_WITH,INHIBITS,Recombinant Interferon-gamma
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Recombinant Interferon-gamma
+Interleukin-10,INTERACTS_WITH,INHIBITS,Recombinant Interferon-gamma
+SARS coronavirus Ab,INTERACTS_WITH,INHIBITS,Nucleocapsid
+"Antibodies, Neutralizing",INTERACTS_WITH,INHIBITS,Nucleocapsid
+arbidol,INTERACTS_WITH,INHIBITS,Glycoproteins
+Proteins,INTERACTS_WITH,INHIBITS,Glycoproteins
+SETDB1 gene,INTERACTS_WITH,INHIBITS,Suppressor
+Recombinant Interferon-gamma,INTERACTS_WITH,INHIBITS,Interleukins
+Proteins,INTERACTS_WITH,INHIBITS,Interleukins
+Anti-Antibodies,INTERACTS_WITH,INHIBITS,Interleukins
+MOK wt Allele,INTERACTS_WITH,INHIBITS,HMGB1 gene
+Ferritin,INTERACTS_WITH,INHIBITS,Fibrin fragment D
+Ferritin,INTERACTS_WITH,INHIBITS,Fibrin fragment D
+SETD2 gene,INTERACTS_WITH,INHIBITS,Interleukin-8
+cytokine,INTERACTS_WITH,INHIBITS,Interleukin-8
+VWF gene,INTERACTS_WITH,INHIBITS,ADAMTS13 gene
+VWF gene,INTERACTS_WITH,INHIBITS,ADAMTS13 gene
+favipiravir,INTERACTS_WITH,INHIBITS,Ritonavir
+Small Molecule,INTERACTS_WITH,INHIBITS,Endopeptidases
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,Endopeptidases
+Binding Sites,INTERACTS_WITH,INHIBITS,Endopeptidases
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Endopeptidases
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Endopeptidases
+Antiviral Agents,INTERACTS_WITH,INHIBITS,Endopeptidases
+Antiviral Agents,INTERACTS_WITH,INHIBITS,Endopeptidases
+DNA,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Proteins,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Proteins,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Aldehyde Dehydrogenase Mitochondrial,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Cisplatin,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Endopeptidases,INTERACTS_WITH,INHIBITS,Pharmacologic Substance
+Proteins,INTERACTS_WITH,INHIBITS,Quercetin
+boswellic acid,INTERACTS_WITH,INHIBITS,ICAM1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Hypoxia-Inducible Factor 1
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Hypoxia-Inducible Factor 1
+gingerol,INTERACTS_WITH,INHIBITS,Hypoxia-Inducible Factor 1
+HSP90 Heat-Shock Proteins,INTERACTS_WITH,INHIBITS,Hypoxia-Inducible Factor 1
+HSP90 Heat-Shock Proteins,INTERACTS_WITH,INHIBITS,Hypoxia-Inducible Factor 1
+Genes,INTERACTS_WITH,INHIBITS,Vitamin D
+gemcitabine,INTERACTS_WITH,INHIBITS,Doxorubicin
+pirfenidone,INTERACTS_WITH,INHIBITS,Paclitaxel
+pirfenidone,INTERACTS_WITH,INHIBITS,Paclitaxel
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Anti-Antibodies
+Interleukins,INTERACTS_WITH,INHIBITS,Anti-Antibodies
+"Ephrin Type-B Receptor 1, human",INTERACTS_WITH,INHIBITS,Anti-Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Anti-Antibodies
+Vaccines,INTERACTS_WITH,INHIBITS,Anti-Antibodies
+FOXP4-AS1 gene,INTERACTS_WITH,INHIBITS,"RNA, Small Interfering"
+"Genes, Viral",INTERACTS_WITH,INHIBITS,"RNA, Small Interfering"
+Genes,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Cisplatin,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Genes,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+DSTYK gene,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+CHML gene,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Mubritinib,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,"FRAP1 protein, human"
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Interleukin-6,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Binding Sites,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Vaccines,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+IMPACT gene,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Interleukin 6 Receptor,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Interleukin 6 Receptor,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Monoclonal Antibodies
+"Receptors, Virus",INTERACTS_WITH,INHIBITS,ACE2 gene
+Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+AGTR1 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+"Receptor, Angiotensin, Type 1",INTERACTS_WITH,INHIBITS,ACE2 gene
+"Receptor, Angiotensin, Type 1",INTERACTS_WITH,INHIBITS,ACE2 gene
+Anti-Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+Proteins,INTERACTS_WITH,INHIBITS,ACE2 gene
+Proteins,INTERACTS_WITH,INHIBITS,ACE2 gene
+Pulmonary Surfactants,INTERACTS_WITH,INHIBITS,ACE2 gene
+Aldosterone,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensin II,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensin II,INTERACTS_WITH,INHIBITS,ACE2 gene
+Interferons,INTERACTS_WITH,INHIBITS,ACE2 gene
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+ADAM17 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+cytokine,INTERACTS_WITH,INHIBITS,ACE2 gene
+cytokine,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensins,INTERACTS_WITH,INHIBITS,ACE2 gene
+Genes,INTERACTS_WITH,INHIBITS,ACE2 gene
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+Interleukin-6,INTERACTS_WITH,INHIBITS,ACE2 gene
+angiotensin converting enzyme 2,INTERACTS_WITH,INHIBITS,ACE2 gene
+Anti-Anxiety Agents,INTERACTS_WITH,INHIBITS,ACE2 gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,ACE2 gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensin-Converting Enzyme Inhibitors,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensin-Converting Enzyme Inhibitors,INTERACTS_WITH,INHIBITS,ACE2 gene
+Angiotensin II receptor antagonist,INTERACTS_WITH,INHIBITS,ACE2 gene
+Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+Antibodies,INTERACTS_WITH,INHIBITS,ACE2 gene
+Proteins,INTERACTS_WITH,INHIBITS,ACE2 gene
+Proteins,INTERACTS_WITH,INHIBITS,ACE2 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,ACE2 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,ACE2 gene
+Ergocalciferol,INTERACTS_WITH,INHIBITS,ACE2 gene
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+Blockade,INTERACTS_WITH,INHIBITS,ACE2 gene
+IMPACT gene,INTERACTS_WITH,INHIBITS,ACE2 gene
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,ACE2 gene
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,ACE2 gene
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,ACE2 gene
+Serine Endopeptidases,INTERACTS_WITH,INHIBITS,ACE2 gene
+Ascorbic Acid,INTERACTS_WITH,INHIBITS,ACE2 gene
+receptor,INTERACTS_WITH,INHIBITS,ACE2 gene
+receptor,INTERACTS_WITH,INHIBITS,ACE2 gene
+Calcitriol,INTERACTS_WITH,INHIBITS,ACE2 gene
+Flavonoids,INTERACTS_WITH,INHIBITS,ACE2 gene
+Lisinopril,INTERACTS_WITH,INHIBITS,ACE2 gene
+Estrogens,INTERACTS_WITH,INHIBITS,ACE2 gene
+Estrogens,INTERACTS_WITH,INHIBITS,ACE2 gene
+Genes,INTERACTS_WITH,INHIBITS,ACE2 gene
+Endopeptidases,INTERACTS_WITH,INHIBITS,Binding Sites
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Binding Sites
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Binding Sites
+Ergocalciferol,INTERACTS_WITH,INHIBITS,Binding Sites
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,Level
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,Level
+Sulfur Dioxide,INTERACTS_WITH,INHIBITS,pollutant
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Reactive Oxygen Species
+BCL2 gene,INTERACTS_WITH,INHIBITS,caspase-3
+BAX gene,INTERACTS_WITH,INHIBITS,caspase-3
+Lactate,INTERACTS_WITH,INHIBITS,Glucose
+HAO1 gene,INTERACTS_WITH,INHIBITS,Glucose
+Antibodies,INTERACTS_WITH,INHIBITS,Epitopes
+Antibodies,INTERACTS_WITH,INHIBITS,Epitopes
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Peptides
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Peptides
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,other medicated shampoos in ATC
+Vaccines,INTERACTS_WITH,INHIBITS,other medicated shampoos in ATC
+Nucleocapsid,INTERACTS_WITH,INHIBITS,SARS coronavirus Ab
+Mullerian duct inhibiting substance,INTERACTS_WITH,INHIBITS,SARS coronavirus Ab
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,DNA
+Complement System Proteins,INTERACTS_WITH,INHIBITS,DNA
+Proteins,INTERACTS_WITH,INHIBITS,"Antibodies, Neutralizing"
+Vaccines,INTERACTS_WITH,INHIBITS,"Antibodies, Neutralizing"
+Vaccines,INTERACTS_WITH,INHIBITS,"Antibodies, Neutralizing"
+Nucleocapsid,INTERACTS_WITH,INHIBITS,"Antibodies, Neutralizing"
+"Delta-Like Protein 1, human",INTERACTS_WITH,INHIBITS,"Antibodies, Neutralizing"
+Fibrin fragment D,INTERACTS_WITH,INHIBITS,Ferritin
+Fibrin fragment D,INTERACTS_WITH,INHIBITS,Ferritin
+Interleukin-6,INTERACTS_WITH,INHIBITS,Ferritin
+Interleukin-6,INTERACTS_WITH,INHIBITS,Ferritin
+Lactate Dehydrogenase,INTERACTS_WITH,INHIBITS,Ferritin
+Lactate Dehydrogenase,INTERACTS_WITH,INHIBITS,Ferritin
+tocilizumab,INTERACTS_WITH,INHIBITS,Ferritin
+Ritonavir,INTERACTS_WITH,INHIBITS,favipiravir
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,favipiravir
+Adrenal Cortex Hormones,INTERACTS_WITH,INHIBITS,Oxygen
+caspase-3,INTERACTS_WITH,INHIBITS,BCL2 gene
+TP53 gene,INTERACTS_WITH,INHIBITS,BCL2 gene
+Poly(ADP-ribose) Polymerases,INTERACTS_WITH,INHIBITS,BCL2 gene
+BAX gene,INTERACTS_WITH,INHIBITS,BCL2 gene
+BAX gene,INTERACTS_WITH,INHIBITS,BCL2 gene
+"Antibodies, Neutralizing",INTERACTS_WITH,INHIBITS,"Delta-Like Protein 1, human"
+Vaccines,INTERACTS_WITH,INHIBITS,"Delta-Like Protein 1, human"
+Vaccines,INTERACTS_WITH,INHIBITS,"Delta-Like Protein 1, human"
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,VIM gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,VIM gene
+erlotinib,INTERACTS_WITH,INHIBITS,VIM gene
+erlotinib,INTERACTS_WITH,INHIBITS,VIM gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,VIM gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,VIM gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensin II
+ACE2 gene,INTERACTS_WITH,INHIBITS,Angiotensin II
+ACE2 gene,INTERACTS_WITH,INHIBITS,Flavonoids
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Genes
+EZH2 gene,INTERACTS_WITH,INHIBITS,Genes
+"Genes, Overlapping",INTERACTS_WITH,INHIBITS,Genes
+Interleukin-6,INTERACTS_WITH,INHIBITS,Genes
+ACE2 gene,INTERACTS_WITH,INHIBITS,Genes
+"Genes, Overlapping",INTERACTS_WITH,INHIBITS,Genes
+nutlin 3,INTERACTS_WITH,INHIBITS,Genes
+TRANSCRIPTION FACTOR,INTERACTS_WITH,INHIBITS,Genes
+TRANSCRIPTION FACTOR,INTERACTS_WITH,INHIBITS,Genes
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Genes
+CEL gene,INTERACTS_WITH,INHIBITS,Genes
+TP53 gene,INTERACTS_WITH,INHIBITS,Genes
+TP53 gene,INTERACTS_WITH,INHIBITS,Genes
+EZH2 gene,INTERACTS_WITH,INHIBITS,Genes
+Base Sequence,INTERACTS_WITH,INHIBITS,Genes
+Glycogen Synthase Kinase 3,INTERACTS_WITH,INHIBITS,Genes
+Complement System Proteins,INTERACTS_WITH,INHIBITS,Genes
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Genes
+ACE2 gene,INTERACTS_WITH,INHIBITS,Genes
+Vitamin D,INTERACTS_WITH,INHIBITS,Genes
+ACE2 gene,INTERACTS_WITH,INHIBITS,Calcitriol
+Genes,INTERACTS_WITH,INHIBITS,TRANSCRIPTION FACTOR
+Genes,INTERACTS_WITH,INHIBITS,TRANSCRIPTION FACTOR
+STAT3 gene,INTERACTS_WITH,INHIBITS,Interleukin-1 beta
+STAT3 gene,INTERACTS_WITH,INHIBITS,Interleukin-1 beta
+Interleukin-10,INTERACTS_WITH,INHIBITS,Interleukin-1 beta
+palbociclib,INTERACTS_WITH,INHIBITS,Interleukin-1 beta
+cytokine,INTERACTS_WITH,INHIBITS,Interleukin-1 beta
+Interleukin-1 beta,INTERACTS_WITH,INHIBITS,Interleukin-10
+Interleukin-6,INTERACTS_WITH,INHIBITS,Interleukin-10
+Recombinant Interferon-gamma,INTERACTS_WITH,INHIBITS,Interleukin-10
+Interleukin-6,INTERACTS_WITH,INHIBITS,Interleukin-10
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,Amino Acids
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,Amino Acids
+IMPACT gene,INTERACTS_WITH,INHIBITS,Nucleic Acids
+"RNA, Small Interfering",INTERACTS_WITH,INHIBITS,"Genes, Viral"
+TP53 gene,INTERACTS_WITH,INHIBITS,SIRT1 gene
+cytokine,INTERACTS_WITH,INHIBITS,Interleukin-6
+STAT3 gene,INTERACTS_WITH,INHIBITS,Interleukin-6
+STAT3 gene,INTERACTS_WITH,INHIBITS,Interleukin-6
+receptor,INTERACTS_WITH,INHIBITS,Interleukin-6
+Ferritin,INTERACTS_WITH,INHIBITS,Interleukin-6
+Ferritin,INTERACTS_WITH,INHIBITS,Interleukin-6
+Interleukin-10,INTERACTS_WITH,INHIBITS,Interleukin-6
+darunavir,INTERACTS_WITH,INHIBITS,Interleukin-6
+Interleukin-10,INTERACTS_WITH,INHIBITS,Interleukin-6
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Interleukin-6
+tocilizumab,INTERACTS_WITH,INHIBITS,Interleukin-6
+cytokine,INTERACTS_WITH,INHIBITS,Interleukin-6
+CHPT1 wt Allele,INTERACTS_WITH,INHIBITS,Interleukin-6
+Blockade,INTERACTS_WITH,INHIBITS,Interleukin-6
+Genes,INTERACTS_WITH,INHIBITS,Interleukin-6
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Interleukin-6
+Aim,INTERACTS_WITH,INHIBITS,Interleukin-6
+ACE2 gene,INTERACTS_WITH,INHIBITS,Interleukin-6
+cytokine,INTERACTS_WITH,INHIBITS,Biological Response Modifiers
+Interleukin-8,INTERACTS_WITH,INHIBITS,cytokine
+Granulocyte-Macrophage Colony-Stimulating Factor,INTERACTS_WITH,INHIBITS,cytokine
+Interleukin-1 beta,INTERACTS_WITH,INHIBITS,cytokine
+Biological Factors,INTERACTS_WITH,INHIBITS,cytokine
+Interleukin-6,INTERACTS_WITH,INHIBITS,cytokine
+Hemoglobin,INTERACTS_WITH,INHIBITS,cytokine
+cytotoxic T-lymphocyte antigen 4,INTERACTS_WITH,INHIBITS,cytokine
+Interleukin-6,INTERACTS_WITH,INHIBITS,cytokine
+NF-kappa B,INTERACTS_WITH,INHIBITS,cytokine
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,cytokine
+Metformin,INTERACTS_WITH,INHIBITS,cytokine
+Biological Factors,INTERACTS_WITH,INHIBITS,cytokine
+ACE2 gene,INTERACTS_WITH,INHIBITS,cytokine
+ACE2 gene,INTERACTS_WITH,INHIBITS,cytokine
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,cytokine
+MicroRNAs,INTERACTS_WITH,INHIBITS,cytokine
+Biological Response Modifiers,INTERACTS_WITH,INHIBITS,cytokine
+Ergocalciferol,INTERACTS_WITH,INHIBITS,cytokine
+Ergocalciferol,INTERACTS_WITH,INHIBITS,cytokine
+"ACE2 protein, human",INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+"ACE2 protein, human",INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+ACE2 gene,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+ACE2 gene,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Antibodies,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Antibodies,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Vaccines,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Vaccines,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+corilagin,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Glycyrrhizic Acid,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Antibodies,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Antibodies,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Peptides,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+CAMP gene,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Proteins,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+Proteins,INTERACTS_WITH,INHIBITS,RNA Recognition Motif
+FAM3C gene,INTERACTS_WITH,INHIBITS,Proteins
+PTPN6 gene,INTERACTS_WITH,INHIBITS,Proteins
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Proteins
+Glycoproteins,INTERACTS_WITH,INHIBITS,Proteins
+ACE2 gene,INTERACTS_WITH,INHIBITS,Proteins
+ACE2 gene,INTERACTS_WITH,INHIBITS,Proteins
+Enzymes,INTERACTS_WITH,INHIBITS,Proteins
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Proteins
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Proteins
+SNAI2 gene,INTERACTS_WITH,INHIBITS,Proteins
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Proteins
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Proteins
+"Antibodies, Neutralizing",INTERACTS_WITH,INHIBITS,Proteins
+SNAI1 gene,INTERACTS_WITH,INHIBITS,Proteins
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Proteins
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Proteins
+ACE2 gene,INTERACTS_WITH,INHIBITS,Proteins
+ACE2 gene,INTERACTS_WITH,INHIBITS,Proteins
+Small Molecule,INTERACTS_WITH,INHIBITS,Proteins
+MicroRNAs,INTERACTS_WITH,INHIBITS,Proteins
+MicroRNAs,INTERACTS_WITH,INHIBITS,Proteins
+Interleukins,INTERACTS_WITH,INHIBITS,Proteins
+Quercetin,INTERACTS_WITH,INHIBITS,Proteins
+Antibodies,INTERACTS_WITH,INHIBITS,Duration
+Antibiotics,INTERACTS_WITH,INHIBITS,Duration
+Adrenal Cortex Hormones,INTERACTS_WITH,INHIBITS,Duration
+Vaccines,INTERACTS_WITH,INHIBITS,Duration
+Antibiotics,INTERACTS_WITH,INHIBITS,Duration
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Duration
+IMPACT gene,INTERACTS_WITH,INHIBITS,Duration
+PDCD1 gene,INTERACTS_WITH,INHIBITS,Antibodies
+Protamines,INTERACTS_WITH,INHIBITS,Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Antibodies
+Epitopes,INTERACTS_WITH,INHIBITS,Antibodies
+Epitopes,INTERACTS_WITH,INHIBITS,Antibodies
+"N,N-Dimethyltryptamine",INTERACTS_WITH,INHIBITS,Antibodies
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Antibodies
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Antibodies
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Antibodies
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Antibodies
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Antibodies
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Antibodies
+BLNK gene,INTERACTS_WITH,INHIBITS,Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Antibodies
+ACE2 gene,INTERACTS_WITH,INHIBITS,Antibodies
+Duration,INTERACTS_WITH,INHIBITS,Antibodies
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Antibodies
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Antibodies
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,Azithromycin
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Azithromycin
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Azithromycin
+Proteins,INTERACTS_WITH,INHIBITS,SNAI1 gene
+LINC00891 gene,INTERACTS_WITH,INHIBITS,SNAI1 gene
+Interleukin-6,INTERACTS_WITH,INHIBITS,tocilizumab
+Ferritin,INTERACTS_WITH,INHIBITS,tocilizumab
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Interleukin 6 Receptor
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Interleukin 6 Receptor
+"Antibodies, Monoclonal, Humanized",INTERACTS_WITH,INHIBITS,Interleukin 6 Receptor
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Interleukin 6 Receptor
+ACE2 gene,INTERACTS_WITH,INHIBITS,receptor
+ACE2 gene,INTERACTS_WITH,INHIBITS,receptor
+angiotensin converting enzyme 2,INTERACTS_WITH,INHIBITS,receptor
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,receptor
+Interleukin-6,INTERACTS_WITH,INHIBITS,receptor
+IMPACT gene,INTERACTS_WITH,INHIBITS,ADAMTS2 gene
+IMPACT gene,INTERACTS_WITH,INHIBITS,WASF1 gene
+Aim,INTERACTS_WITH,INHIBITS,WASF1 gene
+SARS coronavirus Ab,INTERACTS_WITH,INHIBITS,Mullerian duct inhibiting substance
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,RAB3D gene
+Phosphotransferases,INTERACTS_WITH,INHIBITS,Small Molecule
+Proteins,INTERACTS_WITH,INHIBITS,Small Molecule
+Endopeptidases,INTERACTS_WITH,INHIBITS,Small Molecule
+"PSMD10 protein, human",INTERACTS_WITH,INHIBITS,Small Molecule
+p21 K-Ras Protein,INTERACTS_WITH,INHIBITS,Small Molecule
+cytokine,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+RAB3D gene,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+ACE2 gene,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+Lipids,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+favipiravir,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+Azithromycin,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Hydroxychloroquine
+Anti-Antibodies,INTERACTS_WITH,INHIBITS,"Ephrin Type-B Receptor 1, human"
+IMPACT gene,INTERACTS_WITH,INHIBITS,Aim
+IMPACT gene,INTERACTS_WITH,INHIBITS,Aim
+Interleukin-6,INTERACTS_WITH,INHIBITS,Aim
+WASF1 gene,INTERACTS_WITH,INHIBITS,Aim
+IMPACT gene,INTERACTS_WITH,INHIBITS,Aim
+IMPACT gene,INTERACTS_WITH,INHIBITS,Aim
+Duration,INTERACTS_WITH,INHIBITS,Adrenal Cortex Hormones
+Oxygen,INTERACTS_WITH,INHIBITS,Adrenal Cortex Hormones
+TSC22D3 gene,INTERACTS_WITH,INHIBITS,Glucocorticoids
+Vaccines,INTERACTS_WITH,INHIBITS,"RNA, Messenger"
+Candidate Disease Gene,INTERACTS_WITH,INHIBITS,"RNA, Messenger"
+MicroRNAs,INTERACTS_WITH,INHIBITS,"RNA, Messenger"
+MicroRNAs,INTERACTS_WITH,INHIBITS,"RNA, Messenger"
+DEGS1 wt Allele,INTERACTS_WITH,INHIBITS,"RNA, Messenger"
+CXCL9 wt Allele,INTERACTS_WITH,INHIBITS,paired basic amino acid cleaving enzyme
+Vaccines,INTERACTS_WITH,INHIBITS,Viral Vaccines
+IMPACT gene,INTERACTS_WITH,INHIBITS,Ergocalciferol
+Vitamin supplementation,INTERACTS_WITH,INHIBITS,Ergocalciferol
+Vitamin supplementation,INTERACTS_WITH,INHIBITS,Ergocalciferol
+ACE2 gene,INTERACTS_WITH,INHIBITS,Ergocalciferol
+Binding Sites,INTERACTS_WITH,INHIBITS,Ergocalciferol
+cytokine,INTERACTS_WITH,INHIBITS,Ergocalciferol
+cytokine,INTERACTS_WITH,INHIBITS,Ergocalciferol
+Candidate Disease Gene,INTERACTS_WITH,INHIBITS,Glutathione
+GSTA4 gene,INTERACTS_WITH,INHIBITS,Glutathione
+KEAP1 gene,INTERACTS_WITH,INHIBITS,Antioxidants
+Ergocalciferol,INTERACTS_WITH,INHIBITS,Vitamin supplementation
+Ergocalciferol,INTERACTS_WITH,INHIBITS,Vitamin supplementation
+IMPACT gene,INTERACTS_WITH,INHIBITS,Vaccines
+IMPACT gene,INTERACTS_WITH,INHIBITS,Vaccines
+Duration,INTERACTS_WITH,INHIBITS,Vaccines
+Viral Vaccines,INTERACTS_WITH,INHIBITS,Vaccines
+Anti-Antibodies,INTERACTS_WITH,INHIBITS,Vaccines
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Vaccines
+"RNA, Messenger",INTERACTS_WITH,INHIBITS,Vaccines
+"Delta-Like Protein 1, human",INTERACTS_WITH,INHIBITS,Vaccines
+"Delta-Like Protein 1, human",INTERACTS_WITH,INHIBITS,Vaccines
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Vaccines
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,Vaccines
+other medicated shampoos in ATC,INTERACTS_WITH,INHIBITS,Vaccines
+"Antibodies, Neutralizing",INTERACTS_WITH,INHIBITS,Vaccines
+"Antibodies, Neutralizing",INTERACTS_WITH,INHIBITS,Vaccines
+ACE2 gene,INTERACTS_WITH,INHIBITS,angiotensin converting enzyme 2
+receptor,INTERACTS_WITH,INHIBITS,angiotensin converting enzyme 2
+Genes,INTERACTS_WITH,INHIBITS,CEL gene
+Binding Sites,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Candidate Disease Gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Proteins,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Proteins,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Importins,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Reactive Oxygen Species,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+ACE2 gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+ACE2 gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+IMPACT gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+IMPACT gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Cathepsin L,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Cathepsin L,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+"3C-like protease, SARS coronavirus",INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Enzymes,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Hydroxychloroquine,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Azithromycin,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Azithromycin,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Chloroquine,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Chloroquine,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Interleukin 6 Receptor,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Membrane Transport Proteins,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Ion Channel,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+"Receptors, Virus",INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+rho GTP-Binding Proteins,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Endopeptidases,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Peptide Hydrolases,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+DNA Helicases,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+cytokine,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Interleukin-6,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Duration,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+TMPRSS2 gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+pemetrexed,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Cisplatin,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+Transforming Growth Factor beta,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+IMPACT gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+IMPACT gene,INTERACTS_WITH,INHIBITS,Pharmaceutical Preparations
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,"ACE2 protein, human"
+RNA Recognition Motif,INTERACTS_WITH,INHIBITS,"ACE2 protein, human"
+RNA-Directed RNA Polymerase,INTERACTS_WITH,INHIBITS,Antiviral Agents
+Endopeptidases,INTERACTS_WITH,INHIBITS,Antiviral Agents
+Endopeptidases,INTERACTS_WITH,INHIBITS,Antiviral Agents
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,Enzymes
+Proteins,INTERACTS_WITH,INHIBITS,Enzymes
+Monoclonal Antibodies,INTERACTS_WITH,INHIBITS,IMPACT gene
+ACE2 gene,INTERACTS_WITH,INHIBITS,IMPACT gene
+Elements,INTERACTS_WITH,INHIBITS,IMPACT gene
+Aim,INTERACTS_WITH,INHIBITS,IMPACT gene
+Aim,INTERACTS_WITH,INHIBITS,IMPACT gene
+Nucleic Acids,INTERACTS_WITH,INHIBITS,IMPACT gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,IMPACT gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,IMPACT gene
+Duration,INTERACTS_WITH,INHIBITS,IMPACT gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,IMPACT gene
+Pharmaceutical Preparations,INTERACTS_WITH,INHIBITS,IMPACT gene
+Ergocalciferol,INTERACTS_WITH,INHIBITS,IMPACT gene
+ADAMTS2 gene,INTERACTS_WITH,INHIBITS,IMPACT gene
+WASF1 gene,INTERACTS_WITH,INHIBITS,IMPACT gene
+Vaccines,INTERACTS_WITH,INHIBITS,IMPACT gene
+Vaccines,INTERACTS_WITH,INHIBITS,IMPACT gene
+Aim,INTERACTS_WITH,INHIBITS,IMPACT gene
+Aim,INTERACTS_WITH,INHIBITS,IMPACT gene
+IMPACT gene,INTERACTS_WITH,INHIBITS,Elements
+ACE2 gene,INTERACTS_WITH,INHIBITS,AGTR1 gene
+"RAI3 protein, human",INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+erlotinib,INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+ACE2 gene,INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+ACE2 gene,INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+GA-Binding Protein Transcription Factor,INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+"RAI3 protein, human",INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+"Antibodies, Blocking",INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+YAP1 gene,INTERACTS_WITH,INHIBITS,Mediator brand of benfluorex hydrochloride
+SGCB gene,INTERACTS_WITH,INHIBITS,FTO gene
+KLF9 gene,INTERACTS_WITH,INHIBITS,PPP1R15A gene
+KLF9 gene,INTERACTS_WITH,INHIBITS,PPP1R15A gene
+KLF9 gene,INTERACTS_WITH,INHIBITS,PPP1R15A gene
+KLF9 gene,INTERACTS_WITH,INHIBITS,PPP1R15A gene
+"APEX1 protein, human",INTERACTS_WITH,INHIBITS,DICER1 gene
+MicroRNAs,INTERACTS_WITH,INHIBITS,DICER1 gene
+MicroRNAs,INTERACTS_WITH,INHIBITS,DICER1 gene
+DUSP1 gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+DUSP1 gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+EZR gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+INT-777,INTERACTS_WITH,INHIBITS,YAP1 gene
+"BCAR1 protein, human",INTERACTS_WITH,INHIBITS,YAP1 gene
+"BCAR1 protein, human",INTERACTS_WITH,INHIBITS,YAP1 gene
+Phosphotransferases,INTERACTS_WITH,INHIBITS,YAP1 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,YAP1 gene
+INT-777,INTERACTS_WITH,INHIBITS,YAP1 gene
+Blockade,INTERACTS_WITH,INHIBITS,YAP1 gene
+Phosphotransferases,INTERACTS_WITH,INHIBITS,YAP1 gene
+SAG gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+RAD 001,INTERACTS_WITH,INHIBITS,YAP1 gene
+"BCAR1 protein, human",INTERACTS_WITH,INHIBITS,YAP1 gene
+"BCAR1 protein, human",INTERACTS_WITH,INHIBITS,YAP1 gene
+TEAD4 gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+BCAR1 gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+BCAR1 gene,INTERACTS_WITH,INHIBITS,YAP1 gene
+montelukast,INTERACTS_WITH,INHIBITS,CYSLTR1 gene
+montelukast,INTERACTS_WITH,INHIBITS,CYSLTR1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Ouabain
+POU6F1 gene,INTERACTS_WITH,INHIBITS,PRKCB gene
+TMEM173 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+TMEM173 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+METTL3 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+METTL3 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+METTL3 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+METTL3 gene,INTERACTS_WITH,INHIBITS,SOX2 Transcription Factor
+FTO gene,INTERACTS_WITH,INHIBITS,SGCB gene
+BRAF gene,INTERACTS_WITH,INHIBITS,Vemurafenib
+MNT gene,INTERACTS_WITH,INHIBITS,ACO2 gene
+MNT gene,INTERACTS_WITH,INHIBITS,ACO2 gene
+SMAD3 gene,INTERACTS_WITH,INHIBITS,LINC00511 gene
+CDK9 gene,INTERACTS_WITH,INHIBITS,UBA1 gene
+TP53 gene,INTERACTS_WITH,INHIBITS,USP7 gene
+"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human",INTERACTS_WITH,INHIBITS,USP7 gene
+"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human",INTERACTS_WITH,INHIBITS,USP7 gene
+Genes,INTERACTS_WITH,INHIBITS,EZH2 gene
+KLF2 gene,INTERACTS_WITH,INHIBITS,EZH2 gene
+Genes,INTERACTS_WITH,INHIBITS,EZH2 gene
+KLF2 gene,INTERACTS_WITH,INHIBITS,EZH2 gene
+ANGPTL2 gene,INTERACTS_WITH,INHIBITS,DCLK1 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,erlotinib
+VIM gene,INTERACTS_WITH,INHIBITS,erlotinib
+VIM gene,INTERACTS_WITH,INHIBITS,erlotinib
+CDH2 gene,INTERACTS_WITH,INHIBITS,erlotinib
+TWIST1 gene,INTERACTS_WITH,INHIBITS,USP13 gene
+Mucin-1 protein,INTERACTS_WITH,INHIBITS,MYC Family Genes
+IRF1 gene,INTERACTS_WITH,INHIBITS,KPNA2 gene
+CD274 gene,INTERACTS_WITH,INHIBITS,KPNA2 gene
+ANGPTL4 gene,INTERACTS_WITH,INHIBITS,Acetyl Coenzyme A
+EIF3G gene,INTERACTS_WITH,INHIBITS,CCT3 gene
+EIF3G gene,INTERACTS_WITH,INHIBITS,CCT3 gene
+LINC00891 gene,INTERACTS_WITH,INHIBITS,GATA2 gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,RAD 001
+Glucocorticoids,INTERACTS_WITH,INHIBITS,TSC22D3 gene
+"Neurogenic Locus Notch Homolog Protein 3, human",INTERACTS_WITH,INHIBITS,PRDX5 gene
+NOTCH3 gene,INTERACTS_WITH,INHIBITS,PRDX5 gene
+CENPM gene,INTERACTS_WITH,INHIBITS,FKBP12-rapamycin associated protein
+ubiquitin-protein ligase,INTERACTS_WITH,INHIBITS,Deubiquitinating Enzymes
+MCL1 gene,INTERACTS_WITH,INHIBITS,Cyanides
+"ITK protein, human",INTERACTS_WITH,INHIBITS,E-Cadherin
+"ITK protein, human",INTERACTS_WITH,INHIBITS,E-Cadherin
+phospholipid-hydroperoxide glutathione peroxidase,INTERACTS_WITH,INHIBITS,GPX4 gene
+NOTCH3 gene,INTERACTS_WITH,INHIBITS,GPX4 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,palbociclib
+Interleukin-1 beta,INTERACTS_WITH,INHIBITS,palbociclib
+STAT3 gene,INTERACTS_WITH,INHIBITS,palbociclib
+CRABP2 gene,INTERACTS_WITH,INHIBITS,Taxol
+MEG3 gene,INTERACTS_WITH,INHIBITS,heterogeneous nuclear ribonucleoprotein A2-B1
+METTL3 gene,INTERACTS_WITH,INHIBITS,heterogeneous nuclear ribonucleoprotein A2-B1
+MEG3 gene,INTERACTS_WITH,INHIBITS,heterogeneous nuclear ribonucleoprotein A2-B1
+MicroRNAs,INTERACTS_WITH,INHIBITS,"APEX1 protein, human"
+DICER1 gene,INTERACTS_WITH,INHIBITS,"APEX1 protein, human"
+"ITK protein, human",INTERACTS_WITH,INHIBITS,SH2B3 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,SH2B3 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,SH2B3 gene
+MYC gene,INTERACTS_WITH,INHIBITS,RNF180 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,MYC gene
+RNF180 gene,INTERACTS_WITH,INHIBITS,MYC gene
+GPX4 gene,INTERACTS_WITH,INHIBITS,NOTCH3 gene
+PRDX5 gene,INTERACTS_WITH,INHIBITS,NOTCH3 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,CDH2 gene
+erlotinib,INTERACTS_WITH,INHIBITS,CDH2 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,CDH2 gene
+Cisplatin,INTERACTS_WITH,INHIBITS,USP1 gene
+Taxol,INTERACTS_WITH,INHIBITS,CRABP2 gene
+USP7 gene,INTERACTS_WITH,INHIBITS,"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human"
+USP7 gene,INTERACTS_WITH,INHIBITS,"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human"
+Mitogen-Activated Protein Kinase Kinases,INTERACTS_WITH,INHIBITS,"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human"
+Ara-C,INTERACTS_WITH,INHIBITS,PLK1 gene
+ADH5 gene,INTERACTS_WITH,INHIBITS,FIGF gene
+ADH5 gene,INTERACTS_WITH,INHIBITS,FIGF gene
+ADH5 gene,INTERACTS_WITH,INHIBITS,FIGF gene
+ADH5 gene,INTERACTS_WITH,INHIBITS,FIGF gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,CDH17 gene
+gefitinib,INTERACTS_WITH,INHIBITS,SETD3 gene
+Antibodies,INTERACTS_WITH,INHIBITS,Protamines
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,CHML gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,ADAMDEC1 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,ADAMDEC1 gene
+FOSL1 gene,INTERACTS_WITH,INHIBITS,FOXM1 gene
+FOXK1 gene,INTERACTS_WITH,INHIBITS,RNASEH1-AS1 gene
+FOXK1 gene,INTERACTS_WITH,INHIBITS,RNASEH1-AS1 gene
+RNASEH1-AS1 gene,INTERACTS_WITH,INHIBITS,FOXK1 gene
+RNASEH1-AS1 gene,INTERACTS_WITH,INHIBITS,FOXK1 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,CDH1 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,CDH1 gene
+USP13 gene,INTERACTS_WITH,INHIBITS,TWIST1 gene
+MUC17 gene,INTERACTS_WITH,INHIBITS,UHRF1 gene
+MUC17 gene,INTERACTS_WITH,INHIBITS,UHRF1 gene
+xanthohumol,INTERACTS_WITH,INHIBITS,PBK gene
+PPP1R15A gene,INTERACTS_WITH,INHIBITS,KLF9 gene
+PPP1R15A gene,INTERACTS_WITH,INHIBITS,KLF9 gene
+PPP1R15A gene,INTERACTS_WITH,INHIBITS,KLF9 gene
+PPP1R15A gene,INTERACTS_WITH,INHIBITS,KLF9 gene
+LCT gene,INTERACTS_WITH,INHIBITS,"BMPR2 protein, human"
+Pentoxifylline,INTERACTS_WITH,INHIBITS,Aldehyde Dehydrogenase Mitochondrial
+Pharmacologic Substance,INTERACTS_WITH,INHIBITS,Aldehyde Dehydrogenase Mitochondrial
+Pentoxifylline,INTERACTS_WITH,INHIBITS,Aldehyde Dehydrogenase Mitochondrial
+Cisplatin,INTERACTS_WITH,INHIBITS,Borneol
+Glucose,INTERACTS_WITH,INHIBITS,HAO1 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,KLF4 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,KLF4 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,deguelin
+Metformin,INTERACTS_WITH,INHIBITS,DNA Modification Methylases
+YAP1 gene,INTERACTS_WITH,INHIBITS,TEAD4 gene
+Interleukin-8,INTERACTS_WITH,INHIBITS,SETD2 gene
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,SETD2 gene
+gefitinib,INTERACTS_WITH,INHIBITS,USP37 gene
+gefitinib,INTERACTS_WITH,INHIBITS,USP37 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,NANOG gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,NANOG gene
+"Alkaline phosphatase isoenzyme, bone fraction",INTERACTS_WITH,INHIBITS,CYP1B1 gene
+KEAP1 gene,INTERACTS_WITH,INHIBITS,S100A4 wt Allele
+GA-Binding Protein Transcription Factor,INTERACTS_WITH,INHIBITS,S100A4 wt Allele
+GPX4 gene,INTERACTS_WITH,INHIBITS,phospholipid-hydroperoxide glutathione peroxidase
+SLC22A3 wt Allele,INTERACTS_WITH,INHIBITS,PTPRA gene
+SETDB1 gene,INTERACTS_WITH,INHIBITS,FOXA2 gene
+SNAI1 gene,INTERACTS_WITH,INHIBITS,LINC00891 gene
+GATA2 gene,INTERACTS_WITH,INHIBITS,LINC00891 gene
+RHOA gene,INTERACTS_WITH,INHIBITS,LINC00891 gene
+KEAP1 gene,INTERACTS_WITH,INHIBITS,TRIM15 gene
+KEAP1 gene,INTERACTS_WITH,INHIBITS,TRIM15 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,YBX1 gene
+QSOX1 gene,INTERACTS_WITH,INHIBITS,YBX1 gene
+Plasmids,INTERACTS_WITH,INHIBITS,YBX1 gene
+MDM2 gene,INTERACTS_WITH,INHIBITS,YBX1 gene
+MDM2 gene,INTERACTS_WITH,INHIBITS,YBX1 gene
+HIF1A wt Allele,INTERACTS_WITH,INHIBITS,POU6F1 gene
+HIF1A wt Allele,INTERACTS_WITH,INHIBITS,POU6F1 gene
+HIF1A gene,INTERACTS_WITH,INHIBITS,POU6F1 gene
+ENO1 gene,INTERACTS_WITH,INHIBITS,POU6F1 gene
+PRKCB gene,INTERACTS_WITH,INHIBITS,POU6F1 gene
+pyruvate dehydrogenase kinase isoform 1,INTERACTS_WITH,INHIBITS,POU6F1 gene
+PARP1 gene,INTERACTS_WITH,INHIBITS,Niraparib
+AKT1 gene,INTERACTS_WITH,INHIBITS,PRMT5 gene
+MicroRNAs,INTERACTS_WITH,INHIBITS,LINC00665 gene
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,DSTYK gene
+FBP1 gene,INTERACTS_WITH,INHIBITS,ALDOA gene
+"Genes, Neoplasm",INTERACTS_WITH,INHIBITS,TET1 gene
+HUWE1 gene,INTERACTS_WITH,INHIBITS,BMI1 gene
+HUWE1 gene,INTERACTS_WITH,INHIBITS,BMI1 gene
+MCL1 gene,INTERACTS_WITH,INHIBITS,BMI1 gene
+BMI1 gene,INTERACTS_WITH,INHIBITS,HUWE1 gene
+BMI1 gene,INTERACTS_WITH,INHIBITS,HUWE1 gene
+FKBP12-rapamycin associated protein,INTERACTS_WITH,INHIBITS,CENPM gene
+BAX gene,INTERACTS_WITH,INHIBITS,GMFG gene
+VWF gene,INTERACTS_WITH,INHIBITS,PHKG1 gene
+VWF gene,INTERACTS_WITH,INHIBITS,PHKG1 gene
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,"RAI3 protein, human"
+"WNK1 protein, human",INTERACTS_WITH,INHIBITS,"RAI3 protein, human"
+Mediator brand of benfluorex hydrochloride,INTERACTS_WITH,INHIBITS,"RAI3 protein, human"
+Glutathione,INTERACTS_WITH,INHIBITS,GSTA4 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,OIP5-AS1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,OIP5-AS1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,OIP5-AS1 gene
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,OIP5-AS1 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,Mubritinib
+Cisplatin,INTERACTS_WITH,INHIBITS,Mubritinib
+"PIK3CG protein, human",INTERACTS_WITH,INHIBITS,Mubritinib
+"FRAP1 protein, human",INTERACTS_WITH,INHIBITS,Mubritinib
+heterogeneous nuclear ribonucleoprotein A2-B1,INTERACTS_WITH,INHIBITS,MEG3 gene
+heterogeneous nuclear ribonucleoprotein A2-B1,INTERACTS_WITH,INHIBITS,MEG3 gene
+Proto-Oncogene Proteins c-akt,INTERACTS_WITH,INHIBITS,guaiol
+PLK1 gene,INTERACTS_WITH,INHIBITS,Ara-C
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Ara-C
+"Antigens, CD274",INTERACTS_WITH,INHIBITS,Ara-C
+GOLGA2 gene,INTERACTS_WITH,INHIBITS,IFT20 gene
+IFT20 gene,INTERACTS_WITH,INHIBITS,GOLGA2 gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,INT-777
+YAP1 gene,INTERACTS_WITH,INHIBITS,INT-777
+CCT3 gene,INTERACTS_WITH,INHIBITS,EIF3G gene
+CCT3 gene,INTERACTS_WITH,INHIBITS,EIF3G gene
+alpha-Synuclein,INTERACTS_WITH,INHIBITS,phosphoinositidase C
+TMEM173 gene,INTERACTS_WITH,INHIBITS,PCAT1 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,EPX gene
+ALDOA gene,INTERACTS_WITH,INHIBITS,FBP1 gene
+STAT3 gene,INTERACTS_WITH,INHIBITS,PGAM1 gene
+FOXP4-AS1 gene,INTERACTS_WITH,INHIBITS,EIF5A gene
+Acetyl Coenzyme A,INTERACTS_WITH,INHIBITS,ANGPTL4 gene
+Platinum,INTERACTS_WITH,INHIBITS,ERCC5 gene
+ZEB1 gene,INTERACTS_WITH,INHIBITS,britannin
+ZEB1 gene,INTERACTS_WITH,INHIBITS,britannin
+CARM1 gene,INTERACTS_WITH,INHIBITS,NFIB gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,"BCAR1 protein, human"
+YAP1 gene,INTERACTS_WITH,INHIBITS,"BCAR1 protein, human"
+YAP1 gene,INTERACTS_WITH,INHIBITS,"BCAR1 protein, human"
+YAP1 gene,INTERACTS_WITH,INHIBITS,"BCAR1 protein, human"
+"PTK2 protein, human",INTERACTS_WITH,INHIBITS,BCAR1 gene
+"PTK2 protein, human",INTERACTS_WITH,INHIBITS,BCAR1 gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,BCAR1 gene
+YAP1 gene,INTERACTS_WITH,INHIBITS,BCAR1 gene
+Poly(ADP-ribose) Polymerases,INTERACTS_WITH,INHIBITS,WEE1 gene
+Poly(ADP-ribose) Polymerases,INTERACTS_WITH,INHIBITS,WEE1 gene
+RALA gene,INTERACTS_WITH,INHIBITS,FAM3C gene
+RALA gene,INTERACTS_WITH,INHIBITS,FAM3C gene
+Proteins,INTERACTS_WITH,INHIBITS,FAM3C gene
+"EPHB2 protein, human",INTERACTS_WITH,INHIBITS,Epiregulin
+ESRP1 gene,INTERACTS_WITH,INHIBITS,ESRP2 gene
+Xanthine Dehydrogenase,INTERACTS_WITH,INHIBITS,xanthine
+STAT3 gene,INTERACTS_WITH,INHIBITS,S3I 201
+POU6F2-AS2 gene,INTERACTS_WITH,INHIBITS,E2F3 gene
+POU6F2-AS2 gene,INTERACTS_WITH,INHIBITS,E2F3 gene
+"MPZL1 protein, human",INTERACTS_WITH,INHIBITS,protein-tyrosine kinase c-src
+PBX1 gene,INTERACTS_WITH,INHIBITS,TRIM26 gene
+Proteins,INTERACTS_WITH,INHIBITS,PTPN6 gene
+FOXM1 gene,INTERACTS_WITH,INHIBITS,FOSL1 gene
+NFIB gene,INTERACTS_WITH,INHIBITS,CARM1 gene
+Amino Acids,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+Level,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+Level,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+xanthine,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+Hypoxanthine,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+Amino Acids,INTERACTS_WITH,INHIBITS,Xanthine Dehydrogenase
+myricetin,INTERACTS_WITH,INHIBITS,MAP2K3 gene
+myricetin,INTERACTS_WITH,INHIBITS,MAP2K3 gene
+DCLK1 gene,INTERACTS_WITH,INHIBITS,ANGPTL2 gene
+NADH,INTERACTS_WITH,INHIBITS,COA6 gene
+Matrix Metalloproteinases,INTERACTS_WITH,INHIBITS,COA6 gene
+gefitinib,INTERACTS_WITH,INHIBITS,TRIP13 gene
+gefitinib,INTERACTS_WITH,INHIBITS,TRIP13 gene
+myo-inositol-trisphosphate 3-kinase,INTERACTS_WITH,INHIBITS,ITPKA gene
+TP53 gene,INTERACTS_WITH,INHIBITS,C12orf5 gene
+Cisplatin,INTERACTS_WITH,INHIBITS,C12orf5 gene
+Cisplatin,INTERACTS_WITH,INHIBITS,C12orf5 gene
+Genes,INTERACTS_WITH,INHIBITS,nutlin 3
+ITPKA gene,INTERACTS_WITH,INHIBITS,myo-inositol-trisphosphate 3-kinase
+ketoglutarate dehydrogenase,INTERACTS_WITH,INHIBITS,CPI 613
+CPI 613,INTERACTS_WITH,INHIBITS,ketoglutarate dehydrogenase
+E2F3 gene,INTERACTS_WITH,INHIBITS,POU6F2-AS2 gene
+E2F3 gene,INTERACTS_WITH,INHIBITS,POU6F2-AS2 gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,RTKN gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,RTKN gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,RTKN gene
+MIR145 gene,INTERACTS_WITH,INHIBITS,RTKN gene
+TRIM26 gene,INTERACTS_WITH,INHIBITS,PBX1 gene
+Sodium Tetradecyl Sulfate,INTERACTS_WITH,INHIBITS,EEF2K gene
+"ITK protein, human",INTERACTS_WITH,INHIBITS,GMDS-AS1 gene
+"PTK2 protein, human",INTERACTS_WITH,INHIBITS,"MPZL1 protein, human"
+protein-tyrosine kinase c-src,INTERACTS_WITH,INHIBITS,"MPZL1 protein, human"
+ESRP2 gene,INTERACTS_WITH,INHIBITS,ESRP1 gene
